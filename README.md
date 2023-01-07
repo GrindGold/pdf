@@ -15,13 +15,13 @@
 <div align=center>
     <p>如果心情好，不介意赞赏一下，祝君 bug 退散</p>
 <figure class="half" align="center">
-    <img src="./image/zhifubao.png" style="width:200px;height: 200px" />
-                                                                                                                        <img src="./image/wechat.png"  style="width:200px;height: 200px" />
+    <img src="./image/zhifubao.png" style="width:120px;height: 120px" />
+                                                                                                                        <img src="./image/wechat.png"  style="width:120px;height: 120px" />
                                                                                                                          </figure></div>
 
 
 
-## 3、知名大学计算机系开源课程收录：
+## 3、知名大学计算机系开源课程收录
 
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
 - [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)  
