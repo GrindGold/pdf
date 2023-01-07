@@ -2,7 +2,7 @@
 
 首先推荐一个计算机学习网站，可以刷算法、C/C++、Java、硬件、前端等，还有大厂面经、面试真题等。
 
-这是传送门：[可能是最好的计算机学习网站]([https://www.nowcoder.com/link/pc_kol_aaaxiu](https://link.zhihu.com/?target=https%3A//www.nowcoder.com/link/pc_kol_aaaxiu))  
+这是传送门：[可能是最好的计算机学习网站](https://www.nowcoder.com/link/pc_kol_aaaxiu)  
 
 现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个。
 
