@@ -1,4 +1,4 @@
-# 计算机经典电子书与学习资源分享  
+<h1 align="center">计算机经典电子书与学习资源分享 </h1>
 
 首先推荐一个计算机学习网站，可以刷算法、C/C++、Java、硬件、前端等，还有大厂面经、面试真题等。
 
@@ -6,7 +6,22 @@
 
 现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个。
 
-## 知名大学计算机系开源课程收录：
+## 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/grindgold/pdf" target="_blank">点此直达 </a>
+
+本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
+
+## 2、赞赏
+
+<div align=center>
+    <p>如果心情好，不介意赞赏一下，祝君 bug 退散</p>
+<figure class="half" align="center">
+    <img src="./image/zhifubao.png" style="width:200px;height: 200px" />
+                                                                                                                        <img src="./image/wechat.png"  style="width:200px;height: 200px" />
+                                                                                                                         </figure></div>
+
+
+
+## 3、知名大学计算机系开源课程收录：
 
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
 - [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)  
@@ -14,7 +29,6 @@
 - [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)  
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
-
 
 ## 1 C语言
 
@@ -475,12 +489,8 @@
 
 持续更新中。。。。
 
-## 赞赏
 
-如果心情好，不介意赞赏一下，祝君 bug 退散
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/6.jpg" width="300" height="450" />
-</div>
+
 
 
 
