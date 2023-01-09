@@ -4,7 +4,7 @@
 
 下面是一些我用过的其中一些比较好的在线题库：[C语言练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu01)、[C++练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu03)、[算法-面试必刷101](https://www.nowcoder.com/link/pc_kol_aaaxiu04)、[计算机基础语法练习](https://www.nowcoder.com/link/pc_kol_aaaxiu02)
 
-现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个，以后多刷刷题。修炼好内功！
+现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个，正所谓：**不白嫖就是亏**！！！
 
 ## 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/grindgold/pdf" target="_blank">点此直达 </a>
 
