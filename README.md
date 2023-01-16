@@ -10,7 +10,23 @@
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
-## 2、赞赏
+## 2、一些你绝对用的上的编程资源汇总
+
+- [速来！牛客网大佬的互联网面试总结经验PDF文件！](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493759&idx=1&sn=3b3ef94153a4f9ff54d3fbc1ddc15e98&chksm=c14212eef6359bf8dbb3af65636d768807b5cfb9b53c70b8344aee7507c2539ae38297172aad&token=470740699&lang=zh_CN#rd)
+- [离线版C语言速查手册！免费分享！](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493745&idx=1&sn=7cb0d97376a9f331622e5f8a7fab1fbd&chksm=c14212e0f6359bf6bcf10adba443b90a1c6cd061af972939c30bf74ad73b48cb64b722f21e29&token=470740699&lang=zh_CN#rd)
+- [开发必备！C++离线版参考手册！免费分享！](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493751&idx=1&sn=5a46307334ee30ad8e1f385e27072bb6&chksm=c14212e6f6359bf08273924f6107bd639e038114a855657458366efb5ef4842a1fdbcb3f9d5a&token=470740699&lang=zh_CN#rd)
+- [谷歌高级研发工程师出品！支持Java、C++、Go三种语言的Leetcode刷题笔记~](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493709&idx=1&sn=09abadbe003a211dc3ccd2f73d939aea&chksm=c14212dcf6359bca3922720a54571aad316ef3921db095de92a38814cbedd617a0916c5fd0b4&token=470740699&lang=zh_CN#rd)
+- [《Pro Git 中文版》PDF，带你学会git的骚操作~](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493739&idx=1&sn=e0023cd238f022a8f14c39568cf82cc4&chksm=c14212faf6359bec95c23c43f864df05af5768d0d1105b1783741260bd1dafe037ae7a96088f&token=470740699&lang=zh_CN#rd)
+- [10套程序员最适合的简历模板！Word格式，白嫖可用~](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493732&idx=1&sn=af9cb0d92b78b7f5968abf8d9d1c0f69&chksm=c14212f5f6359be3aa9407db92d19f28c3113b2885e7fc7472310a19b5f3c49edbbe661a5705&token=470740699&lang=zh_CN#rd)
+- [后端必备！SQL语法速成手册免费分享！~](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493726&idx=1&sn=7d443a0f55a18cfd2453671cd8742453&chksm=c14212cff6359bd93a57ec828f11b8894392648a8db3a6f036a6b9681ec854d6c267c8a86b96&token=470740699&lang=zh_CN#rd)
+- [图解操作系统、网络、计算机组成PDF下载！那些让你起飞的计算机基础知识~](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493725&idx=1&sn=e8fff9b9c1fe7acb019580b68a1a4521&chksm=c14212ccf6359bda7bda1529fb49aa08b152afcaaa0597dc96e97dc8fc5f568ca8b07cb327fa&token=470740699&lang=zh_CN#rd)
+- [分享一下Github 上爆火的各种硬核技术学习路线思维导图~](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493721&idx=1&sn=27689564bc72d2e8e4183118d6be3a22&chksm=c14212c8f6359bde1976f0457c77fe001271a678ec2aab91887490af516f5de2c15a33c7f4c3&token=470740699&lang=zh_CN#rd)
+- [快来白嫖！腾讯字节阿里美团等一二线互联网大厂真实面经！](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247493718&idx=1&sn=95dfa688810c7b6a84b3c76e9a227d1f&chksm=c14212c7f6359bd13709eedeed3f942b171053089ce37ddf612bd50889823156713b18d2574e&token=470740699&lang=zh_CN#rd)
+- [速来！浙江大学计算机本科课程已开源！附赠离线版资源！](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247494070&idx=1&sn=4bf8c4a999f805a4a3f1afc5d2072b7a&chksm=c1421327f6359a31ca52ca8d026cd07490de7c5d10ac701d6bbc1f77954b0147d97cdafa52b4&token=692843928&lang=zh_CN#rd)
+- [大格局！清华大学计算机系课程攻略共享计划！附赠离线版资源！](https://mp.weixin.qq.com/s?__biz=MzkxNzQzNDM2Ng==&mid=2247494080&idx=1&sn=478e6640f13c9f73ea3053db2f4ccaff&chksm=c1421351f6359a475c26f8a7e629196b254d737d254f8f11b7d3fd50be07b737997ac2ea2919&token=692843928&lang=zh_CN#rd)
+- [C语言源码免费分享！超级玛丽、贪吃蛇、学生管理系统等](https://mp.weixin.qq.com/s/ZUHtQxaahrGjvAZVu5jKKg)
+
+## 3、赞赏
 
 <div align=center>
     <p>如果心情好，不介意赞赏一下，祝君 bug 退散</p>
@@ -21,7 +37,17 @@
 
 
 
-## 3、知名大学计算机系开源课程收录
+
+## 4、知名大学计算机系开源课程收录
+
+- [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
+- [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)  
+- [上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)   
+- [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)  
+- [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
+- [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
+
+## 4、知名大学计算机系开源课程收录
 
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
 - [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)  
