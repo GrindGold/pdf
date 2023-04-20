@@ -2,6 +2,8 @@
 
 🔥🔥🔥良心推荐一个计算机学习网站，可能是我用过**最好的计算机学习网站**，可以**刷算法、C/C++、Java、硬件、前端**等，还有**大厂面经、面试真题**等。
 
+![](https://oss.interviewguide.cn/img/202301170032603.png)
+
 下面是一些我用过的其中一些比较好的在线题库：[C语言练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu01)、[C++练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu03)、[算法-面试必刷101](https://www.nowcoder.com/link/pc_kol_aaaxiu04)、[计算机基础语法练习](https://www.nowcoder.com/link/pc_kol_aaaxiu02)
 
 现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个，正所谓：**不白嫖就是亏**！！！
@@ -56,464 +58,669 @@
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
 
-## 1 C语言
+---
 
--  [征服C指针](https://pan.baidu.com/s/1e0zPOp-fhGKKKiILGHx_Ew )  提取码：wwcd 
--  [经典C程序100例](https://pan.baidu.com/s/10HoWoPO_Iz0FVqMhpfP2rQ  )  提取码：t8oe   
--  [C专家编程](https://pan.baidu.com/s/1Zqt4x3_mCYvGA1m9Hc70pg )  提取码：uso7
--  [C语言指针经验总结](https://pan.baidu.com/s/1v6rRsBZHFMQxmVDPpItJMw  )  提取码：ibjw 
--  [C语言深度解剖](https://pan.baidu.com/s/18KcTHqx3sYnyBPd9wr4UsQ )  提取码：6qho 
--  [C语言深度解剖 解开程序员面试笔试的秘密](https://pan.baidu.com/s/1tiZPiojVO2XYpsj6iZdcng)  提取码：ffh1 
--  [c语言入门经典(第5版)](https://pan.baidu.com/s/11cWRyRkw0bruMCx1o2Xabw )  提取码：lzro 
--  [C语言解析教程](https://pan.baidu.com/s/162zKIVChLj5NO_hk16kjKw  )  提取码：mfgv  
--  [C语言函数大全](https://pan.baidu.com/s/1J_6Sox35PTV8Ubb-DSnRSA )  提取码：ir2d 
--  [C语言的科学和艺术](https://pan.baidu.com/s/198IWQcTQzbkYt_iVPK8CQA )  提取码：zm88 
--  [C语言答疑解惑与典型题解](https://pan.baidu.com/s/158HXBJpwXzyK5woz1NA5dQ )  提取码：8cw5  
--  [C语言从入门到精通  第2版明日科技](https://pan.baidu.com/s/1t4dcufnZVMEb8xNY0MyrZQ  )  提取码：4s8h  
--  [C语言程序设计_现代方法](https://pan.baidu.com/s/1Y3CpiqSYjS4LZxo3t43qqA  )  提取码：t4vn  
--  [C语言常见问题集（问题提高版）](https://pan.baidu.com/s/1kAuQzyTsmAihKa8UZHrXCg  )  提取码：xto5 
--  [C语言参悟之旅](https://pan.baidu.com/s/1Gxh6hgUL7L3rFQ4FkoDwng  )  提取码：5h1t 
--  [C语言参考手册第五版](https://pan.baidu.com/s/1dXxjpmbiA36TV5sOhlfhjA  )  提取码：t3g1
--  [C语言编程精粹](https://pan.baidu.com/s/1f3jELV0xaRchBv6wVDYIZQ  )  提取码：5oai 
--  [C陷阱与缺陷](https://pan.baidu.com/s/19tUkgpfpjU3N-3aKX7Y6xg  )  提取码：nejz 
--  [C和指针（中文版）](https://pan.baidu.com/s/1CjnR6FbGHJvkEG1AThQQZA )  提取码：1gvd  
--  [C程序设计语言(英文第2版)及其课后题答案](https://pan.baidu.com/s/1HllCwheCvwivaEEMi85izA)  提取码：wzky  
--  [C程序设计语言（第2版 新版）及课后答案](https://pan.baidu.com/s/1SXAXi-AtdcVS33k3EZCatQ )  提取码：rowl 
--  [C 程序设计语言（第2版）](https://pan.baidu.com/s/1n1Nr42g06FvTt5PiqLyWDQ  )  提取码：4s98 
--  [C Primer Plus 中英版](https://pan.baidu.com/s/1PLKZZA0E9-T8iPKx3M2giw  )  提取码：um90  
--  [C Primer Plus 第6版 中文版](https://pan.baidu.com/s/1DXVKEAhd2Agfz0dxi7F9UQ   )  提取码：n30r 
--  [21天学通C语言  第7版](https://pan.baidu.com/s/129wk9RragTHjgf86sHoPQg )  提取码：8fuj 
--  [[学通C语言的24堂课].刘彬彬&孙秀梅](https://pan.baidu.com/s/1-i_7N12pDkq4O8zske3gRg )  提取码：f44n 
--  [[C语言必须知道的300个问题].明日科技.扫描版](https://pan.baidu.com/s/1NgAyb0DoAq3zQvAQI53GXA  )  提取码：bn80  
+**以下为书籍资源**
 
+## 1、C语言
 
-## 2 C++
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/01.md)
 
+- [C程序设计语言(第2版_新版)](https://pan.baidu.com/s/19woV-w2CJ1vOsdzYPU2AtA)    提取码: 8gpf
 
--  [第二套、侯捷老师全系列八部曲 - 手把手教你进阶系列](https://pan.baidu.com/s/1rNfHasapQuwFf_X0nxfJOQ )  提取码：rb16 
--  [00 - 侯捷系列-全部课件](https://pan.baidu.com/s/1mAH1wMVPyXFHQNckDv16Xw  )  提取码：poo3 
--  [01、C++面向对象高级编程（上）](https://pan.baidu.com/s/1_FFv0cPEPsxpLw66vmZ3BQ )  提取码：51rd
--  [01、C++面向对象高级编程（下）](https://pan.baidu.com/s/16OrZgRnGooXeocAoN4dKeg)  提取码：0869 
--  [00 - 侯捷系列-全部课件](https://pan.baidu.com/s/1mAH1wMVPyXFHQNckDv16Xw  )  提取码：poo3 
--  [03 - 侯捷-C++设计模式](https://pan.baidu.com/s/1ljhdglrfS6GETAWz9bZQfQ)  提取码：zn8n  
--  [04 - 侯捷-C++新标准C++11&14](https://pan.baidu.com/s/1qoiG_1ZFi6ulSKGvQFZkSw )  提取码：5jl1 
--  [05 - 侯捷-C++内存管理机制_60_侯捷](https://pan.baidu.com/s/1UcuXs_eOu-5H-veSbtU4IQ )  提取码：b8b3
--  [06 - 侯捷-C++ Startup 揭密：C++ 程序的生前和死后](https://pan.baidu.com/s/1_m9kEmUWQNCMoiH7e-WHpw)  提取码：adro 
--  [07、算法原理与实践（选修）](https://pan.baidu.com/s/18jqE_lNuJHTsSkmCb5Laxw)  提取码：7548 
--  [08、系统设计与实践（选修）](https://pan.baidu.com/s/16Kr9P2fiUlpq3LlL4Ln5yg )  提取码：697b
--  [第三套、Linux CC++网络编程实践-陈硕](https://pan.baidu.com/s/1OcymYPgisLPsJLFPpuFSJg)  提取码：wv79
--  [陈硕 - C++实践工程学](https://pan.baidu.com/s/1tg57seNQmTQGPFxFbFOTdQ  )  提取码：blou 
--  [易学C++](https://pan.baidu.com/s/1hPL7zN0XyVqfQgVTtlyK6g )  提取码：yiwo 
--  [提高C++性能的编程技术.左飞](https://pan.baidu.com/s/1wfBHSsOPuG4hIAI4KC-C_Q )  提取码：anft   
--  [深入理解C++11](https://pan.baidu.com/s/1GV2HvK41eTjDMs2huX-DYw)  提取码：py26 
--  [深度探索C++对象模型](https://pan.baidu.com/s/1UeCtZpL_I33IahDlWNzvFQ)  提取码：0v2p  
--  [侯捷STL课件](https://pan.baidu.com/s/1nbL2yzl6aPi3kR5w-CjVjA )  提取码：fuuh 
--  [跟我一起写makefile](https://pan.baidu.com/s/1M0NmPBPZxrZq0o0m7_7gPA )  提取码：k090 
--  [大话设计模式C++](https://pan.baidu.com/s/1r_twlwt7NmYSM09LVAS8ag  )  提取码：r1wi 
--  [陈硕 - C++实践工程学](https://pan.baidu.com/s/1YmxlyHXTXOnXA_XvhweqUA)  提取码：dgy4 
--  [STL源码剖析+源码](https://pan.baidu.com/s/1cip_DvjiaomxMOxTofqAtA)  提取码：nkcl 
--  [Modern C++ Design](https://pan.baidu.com/s/1kJmaP8NF0gxkJr7NgdZ8Mg )  提取码：t1kk 
--  [Effective-C++-第二版](https://pan.baidu.com/s/1zjy1JRGZXn-rwfIkUlunDQ  )  提取码：vy1b 
--  [Effective STL中文版](https://pan.baidu.com/s/1_0dRltY1HAYRine3MaRDJA  )  提取码：t3gy 
--  [Effective C++  第三版 高清PDF](https://pan.baidu.com/s/1QcOXHAJT7IpA6-UXOvTvag )  提取码：bd36 
--  [C++设计新思维-泛型编程与设计之应用](https://pan.baidu.com/s/1zl_OWNTSn4infueomtQhdQ )  提取码：7gew 
--  [C++工程实践经验课](https://pan.baidu.com/s/1sOpVEU9m7RwcRzTzvHugNg )  提取码：o5v4 
--  [C++对象模型](https://pan.baidu.com/s/1nrhoEgVIiFJCebvciD6uiw )  提取码：azv9 
--  [C++大学教程](https://pan.baidu.com/s/14g4vGDiTrcWeY0f-LPRpqA  )  提取码：012g 
--  [C++程序设计语言](https://pan.baidu.com/s/1qKkfideylmnSeKBt8yjdnQ )  提取码：abu1 
--  [C++沉思录中文第2版](https://pan.baidu.com/s/1_1upGAMJmjEtCVex593XIA )  提取码：o88v 
--  [C++并发编程实战](https://pan.baidu.com/s/1HX3vAzkp6q0oPqlwU3K_Mg)  提取码：fuj8 
--  [C++标准程序库](https://pan.baidu.com/s/13LcniMz8UPxAJPxsZqeP7A )  提取码：318m 
--  [C++编程调试秘笈](https://pan.baidu.com/s/1Wuac8u3x8kwcfJuGjz6pDw )  提取码：8ool 
--  [C++编程思想（两卷合订本）](https://pan.baidu.com/s/1XpBB-AMrNpZR_2wYpXY-Vw  )  提取码：ekkz
--  [C++编程规范-101条规则准则与最佳实践](https://pan.baidu.com/s/1-qMz_AWH6LBxJsOp8S2lRw )  提取码：0o6k 
--  [C++Primer 5th 英文版](https://pan.baidu.com/s/1LAdu9NA8zFCQu6mUhJv1gQ )  提取码：cxmu
--  [C++ Primer习题集](https://pan.baidu.com/s/1J2ASpvZiJLKSonyDVyR5pg)  提取码：lvmx 
--  [C++ Primer-第4版](https://pan.baidu.com/s/1Mxqah7DdcDn4idTfCZT5sA  )  提取码：8gyu
--  [C++ Primer（第5版）_带书签_高清完整版](https://pan.baidu.com/s/1rlvQYjV7xWQhd7vYhR4yww )  提取码：x6rl 
--  [C++ Primer Plus](https://pan.baidu.com/s/1X-p7BY5n2SR9_QF5YDyULg )  提取码：i0p7 
+- [CMakePractice](https://pan.baidu.com/s/1Ap09NK1i3CchTVc1BvRK9Q)    提取码: w4kk
 
+- [C专家编程](https://pan.baidu.com/s/1NUy9bemR4M9dLcpSEC61GA)    提取码: peu2
 
-## 3 Java
+- [C语言解惑(中文版)](https://pan.baidu.com/s/1yCa90CiJBQuMtk3rRgsxXA)    提取码: sk0m
 
--  [深入剖析Tomcat](https://pan.baidu.com/s/1IunVEAC57UOFqQISJb1MRw )  提取码：59wb 
--  [深入理解Spark：核心思想与源码分析](https://pan.baidu.com/s/14GBUxLt5owx3szh_JvKPAg )  提取码：cij9 
--  [深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）](https://pan.baidu.com/s/1jKvrSCTyTnLKC-vLxSIo1Q )  提取码：q4ca
--  [深入分析JavaWeb技术内幕](https://pan.baidu.com/s/1uuRzc3E37SMn1IZ7NmLxWQ )  提取码：befv
--  [深入JAVA虚拟机第二版](https://pan.baidu.com/s/1iTXXX4e6cBCnAYOgUI-Aw)  提取码：2vd3 
--  [深入JAVA虚拟机](https://pan.baidu.com/s/1jvFfpRSlqy6iAv0wzqxFlw )  提取码：sh19 
--  [轻量级JavaEE企业应用实战](https://pan.baidu.com/s/1QAS0KjbGjUxvw41SikCjXw  )  提取码：4f3u 
--  [精通Struts基于MVC的Java Web设计与开发](https://pan.baidu.com/s/1Xwcrh8Qh_jYxM5J1PbtI6w )  提取码：mamt 
--  [精通spring - Mastering Spring](https://pan.baidu.com/s/1WsXj2OSia7NJByo4RahEGA )  提取码：s36n
--  [大数据之路：阿里巴巴大数据实践](https://pan.baidu.com/s/1kHrjy7XjVvj-xktTZAne_A )  提取码：6pzp 
--  [大数据架构师指南](https://pan.baidu.com/s/1pjc7WXvkcXJk9V8HVe4OIA )  提取码：03lo 
--  [阿里巴巴Java开发手册--泰山版](https://pan.baidu.com/s/1fmcZzuIhMAiXIoj1qgaSng )  提取码：t19e 
--  [阿里巴巴Java开发手册-嵩山版](https://pan.baidu.com/s/1Swd-z6hbeSlVNh-w9su0VA )  提取码：1xf1 
--  [阿里巴巴Java开发手册--华山版](https://pan.baidu.com/s/1WS6y8pJQkltL0n0KbObS2A )  提取码：90y1 
--  [阿里巴巴Java开发手册v1.2.0](https://pan.baidu.com/s/1r5Gei0GWcttVaRHJveDi5A )  提取码：9006 
--  [阿里巴巴Java开发手册--1.4.0详尽版](https://pan.baidu.com/s/1EtiwI3EsfS8_hQn6rpg6eQ )  提取码：c9sc 
--  [阿里巴巴Java开发手册--1.3.0终极版](https://pan.baidu.com/s/1fRpOg1S-qfkPt2qZago6Tg  )  提取码：a1qf 
--  [阿里巴巴Java开发手册--1.2.0升级版](https://pan.baidu.com/s/1TP4ajcMRKLCVtKRk6-Y0SQ )  提取码：jezb 
--  [阿里巴巴Java开发手册--1.1.0正式版](https://pan.baidu.com/s/12Drps3bAXQ8aAvA-6yTmhw )  提取码：dq9e 
--  [阿里巴巴Java开发手册--1.0.0公开版](https://pan.baidu.com/s/1gLmF91VVKWJdz0YmKTk0pg )  提取码：p3sa 
--  [spring框架，技术详解及使用指导](https://pan.baidu.com/s/18eMWu9CxQbyvCkM_uwrTWg )  提取码：rdqa 
--  [Spring in action 中文版（第4版）](https://pan.baidu.com/s/1KWT-OGGivWDtljwet-GEMQ  )  提取码：12bu 
--  [Spring 5 Recipes, 4th Edition](https://pan.baidu.com/s/1STAmcieYNAwmHblqOtLs6g   )  提取码：n603 
--  [Spark最佳实践](https://pan.baidu.com/s/1KRiBs131kn-mOeeQCW686Q  )  提取码：v0vo 
--  [Spark快速大数据分析](https://pan.baidu.com/s/1ylIy_MUlFaK9vM19igUw9g )  提取码：dr8y 
--  [Spark机器学习](https://pan.baidu.com/s/1jBMIeY722Vd8uyfO0wpLMA )  提取码：rueq 
--  [Spark大数据处理：技术、应用与性能优化(全)](https://pan.baidu.com/s/15qSHlTXwP2-H9CcRFZJAqA )  提取码：fcve 
--  [Scala编程中文版(33章全)](https://pan.baidu.com/s/1spPIooMCifIJbHnJAwy7gg )  提取码：mdr1 
--  [Maven实战（高清完整带书签）](https://pan.baidu.com/s/16j9n7XXBdWiiwcuGTLzt5g  )  提取码：ytpm 
--  [Kafka & Mafka技术分享及讨论](https://pan.baidu.com/s/1RLj16gEUP-wLOf2wivDqVA  )  提取码：lbz2 
--  [Java语言编码规范](https://pan.baidu.com/s/13h7KLMwJpFjGc8pGFi27zw  )  提取码：zxxa 
--  [JAVA优化编程](https://pan.baidu.com/s/1FccBsRmFOq-P0lG0xRYkqA )  提取码：5095 
--  [Java夜未眠_程序员的心声](https://pan.baidu.com/s/1gVdcFiaTglI3rAGqhyjblg )  提取码：39jj 
--  [Java性能优化权威指南](https://pan.baidu.com/s/1GM9eo-ODDlmuKaprRaYJ6w  )  提取码：eoa8 
--  [Java线程](https://pan.baidu.com/s/14GqTuXs0YJKiKkUzWJjHsg )  提取码：x832 
--  [Java数据结构和算法中文第二版](https://pan.baidu.com/s/1Rmo_iBOvc5mdgrbmoj-3OA  )  提取码：ounm 
--  [Java使用工具](https://pan.baidu.com/s/1olXB0pquBJ-Rpze_y8VA5A )  提取码：8snj 
--  [Java设计模式之抽象工厂模式](https://pan.baidu.com/s/1_-DdB2TKKESWbfOpm00GHw )  提取码：ap6l 
--  [Java解惑(中文)](https://pan.baidu.com/s/1qIgzkmbVJ6wMmP5cDhLOWA )  提取码：3rgt 
--  [Java核心技术卷2高级特性原书第10版](https://pan.baidu.com/s/1F2DrWQ-vKXRdBbBTQE-vEQ )  提取码：2ww8 
--  [Java核心技术卷1基础知识原书第10版](https://pan.baidu.com/s/1M896FCLK4Ed29vPgUR4JXg )  提取码：igsy 
--  [Java核心技术（卷2）第8版](https://pan.baidu.com/s/1WC9_HScjs9bQdHGQ0T0jcQ  )  提取码：cewn 
--  [Java核心技术(卷1）第8版](https://pan.baidu.com/s/1dwO2mjbAisJhhV_y40xmFQ  )  提取码：fj07 
--  [Java从小白到大牛精简版](https://pan.baidu.com/s/1AFrp0nJHTji8ysDmsLZgdQ )  提取码：7f3y  
--  [Java并发程序设计教程](https://pan.baidu.com/s/1Pa4n1Tg1wNiYxzPJSPp0kQ  )  提取码：6sga 
--  [JAVA并发编程实践](https://pan.baidu.com/s/1d9o5lY1d2Xw8ltonpjr5Aw )  提取码：x58o 
--  [Java并发编程的艺术](https://pan.baidu.com/s/1cOnNMGiSDR5dJhc0f6nQZQ  )  提取码：1eb5 
--  [Java编辑思想（第四版）](https://pan.baidu.com/s/1yrZwSoXIPnCxN07c_P_4AA )  提取码：nzh0 
--  [Java案例开发](https://pan.baidu.com/s/183v0Yu4PITjgo8ZBo1RMPA )  提取码：e16l 
--  [Java2网络协议技术内幕](https://pan.baidu.com/s/1pFLd42BTc18gIb8u1ke7qg )  提取码：5x25 
--  [Java 8实战](https://pan.baidu.com/s/1PKP3hsIIU-VxzLcEsnnNrA )  提取码：noyj 
--  [Head First Servlet and JSP(高清中文版)](https://pan.baidu.com/s/1zVcv5jhxI0E6HngRe7kCYQ )  提取码：ix3i 
--  [Head First Java第二版涵盖java5.0](https://pan.baidu.com/s/1d11foMKuAQKjUuRbPuDa5w )  提取码：3qut 
--  [Hadoop The Definitive Guide](https://pan.baidu.com/s/1rPFEfQxDvsXSnkJcqBESMw  )  提取码：f7ye 
--  [Effective Java 中文第二版](https://pan.baidu.com/s/1yN-9UoVsSGy6OqZ574SwAQ  )  提取码：mut3 
--  [Effective Java 2nd Edition 英文版](https://pan.baidu.com/s/1VzADjXM-gTx2LozKNZJtCw  )  提取码：3d1e 
--  [Camel in Action](https://pan.baidu.com/s/1FV3jmIkrHb3fOGcd8njq5Q  )  提取码：ulzo 
--  [Apache+Kylin权威指南](https://pan.baidu.com/s/1fcT_j2ycMJdZffWNk7JeQQ )  提取码：w2zj 
--  [《码出高效：Java开发手册》](https://pan.baidu.com/s/1Nv5kD8MuvrIh3Z984vD2zA )  提取码：i7ys 
--  [Java2核心技术第I卷.基础知识](https://pan.baidu.com/s/1O_IYvrnhxnor6uBhrRT9ig  )  提取码：yo6t 
--  [[大家网]Java2核心技术II卷.高级特性7th[www.TopSage.com]](https://pan.baidu.com/s/1O4yWFz4gLXb9OLrzNwudMA)  提取码：dpku  
--  [[Flex.3实战].（美）艾哈迈德，（美）赫希，（美）阿比德.扫描版](https://pan.baidu.com/s/16KFFPIUGCw6rRLU59dfkLg  )  提取码：jdnt 
+- [C语言游戏编程从入门到精通](https://pan.baidu.com/s/1Pq95Rs2hW306-aajWszvug)    提取码: f3ho
 
+- [C语言科学与艺术](https://pan.baidu.com/s/1JuyJaT4Og60A4aEEiuMjwA)    提取码: kmug
 
-## 4 Python
+- [C语言高级实用编程技巧](https://pan.baidu.com/s/1qbtatiXrQELwqL2m-5AuZw)    提取码: 1708
 
--  [《Python数据分析14天入门训练营》课程资料](https://pan.baidu.com/s/1jld_YSqFRlDSl07B45PQ5A  )  提取码：24w5 
--  [增长黑客_创业公司的用户与收入增长秘籍 - 范冰](https://pan.baidu.com/s/1trQBHZynq6iYgQLZn0glfg )  提取码：1mil
--  [用Python写网络爬虫](https://pan.baidu.com/s/1hzcjxkhU1bhvp9_Qmpd4eQ )  提取码：qnd3  
--  [数据挖掘原理与算法](https://pan.baidu.com/s/1oK2kFJO-YgBBpeNSeClx_Q )  提取码：tsfe   
--  [数据挖掘导论 - 完整版](https://pan.baidu.com/s/1F5micLOTAjzjbwjbuj4dMA )  提取码：b56u 
--  [数据可视化之美](https://pan.baidu.com/s/1tXuGcFZgPYq54tYAmY6CNA  )  提取码：d4vb 
--  [数据分析学习顺序](https://pan.baidu.com/s/1w_7ZmOX7kNKVLyD1I0pLRw )  提取码：0vdx
--  [数据分析修炼手册](https://pan.baidu.com/s/1koW6wrG8M7cZxImhge-VzA  )  提取码：aegg 
--  [数据分析实战](https://pan.baidu.com/s/1EGGb1717GVbHy3-o8u80NQ )  提取码：2sa2 
--  [人人都是数据分析师：Tableau应用实战](https://pan.baidu.com/s/1D4raRprO3SviKnwlcpbyIA  )  提取码：0i7r 
--  [利用python进行数据分析-第二版](https://pan.baidu.com/s/1p3NIfp0RVQ54Rts067QE8w  )  提取码：w9ni  
--  [利用python进行数据分析](https://pan.baidu.com/s/1fyz699VP2QHLcdWvrwfs3Q )  提取码：kssp 
--  [可爱的Python插图版_文字版](https://pan.baidu.com/s/1S596XnL-wFdbWBe5JjR80Q  )  提取码：bcoy 
--  [精通Scrapy网络爬虫-刘硕](https://pan.baidu.com/s/1yQegnHhmC5OoMHU1fgfWHg )  提取码：d5u9 
--  [带书签目录Python3.5.1入门指南中文版](https://pan.baidu.com/s/1z7pwZ0oi_ytF9YPOJraTPw )  提取码：yvtt 
--  [大数据分析精品资料](https://pan.baidu.com/s/19S7DyCqNDpANerLtiWlcQA  )  提取码：h6hd 
--  [触手可及的大数据分析工具 Tableau案例集](https://pan.baidu.com/s/1DLqy3i9bL2En912sJtAg-A )  提取码：7xl7  
--  [编程小白的第一本python入门书](https://pan.baidu.com/s/1HjSJPNsR4v2ytEv37o9dFA )  提取码：akwd 
--  [笨办法学Python（第四版）](https://pan.baidu.com/s/1SogzhE7T8IlQskIWYSEXZQ )  提取码：akk7 
--  [笨办法学.Python.（第三版）](https://pan.baidu.com/s/1K7eTYS_fQ3RzzIgUv0oGGQ )  提取码：tqe8 
--  [Tableau商业智能与可视化应用实战](https://pan.baidu.com/s/14wsvl0J5qWlxoiMGifXN4w )  提取码：1ydi 
--  [Tableau：数据可视化之极速BI数据源](https://pan.baidu.com/s/1gZVUwRi63SNaCGhsf8iddg  )  提取码：dy06 
--  [Tableau：数据可视化之极速BI](https://pan.baidu.com/s/1pMD6e9g56c1RUqeUZv6cxA )  提取码：yjgu 
--  [Python知识手册-V2.0.1](https://pan.baidu.com/s/1_cY28ce9QuqKhF1tjGU62A  )  提取码：hnwj  
--  [Python正则表达式-深入浅出](https://pan.baidu.com/s/1WHkLjbAb3UhE0RA8UHpB9g )  提取码：cgwz 
--  [Python学习手册(第4版)](https://pan.baidu.com/s/1mmZWlzH9UvQS9t0_OspExw )  提取码：avu8 
--  [Python网络编程基础](https://pan.baidu.com/s/1hpoZIgoRo_e-LHRoVnCQKA )  提取码：ii89 
--  [Python数据挖掘入门与实践](https://pan.baidu.com/s/1ibnQp43Kl9jX1dmxkGYdOw  )  提取码：gwqu 
--  [Python数据可视化编程实战](https://pan.baidu.com/s/1Jf8sHzVPeWXu1euf_eEaVw )  提取码：qxad 
--  [Python数据分析与挖掘实战](https://pan.baidu.com/s/1bUowx1pPT6kSQNXZXfACYw  )  提取码：z8d2 
--  [Python数据分析实战_2016版](https://pan.baidu.com/s/1p0DmVGbCmT55AFQuS0DKHw )  提取码：23lg
--  [Python数据分析基础教程：NumPy学习指南（第2版）](https://pan.baidu.com/s/1KYfetJgTQ_73-eUGD9Iygg )  提取码：lq13 
--  [Python数据分析基础](https://pan.baidu.com/s/17bkcLap-tjvMVrsXTof7Nw )  提取码：nw6a 
--  [Python数据处理](https://pan.baidu.com/s/1stu8W-wSg-QgSgmNtdmTFA )  提取码：zv2s 
--  [Python入门教材(中文)](https://pan.baidu.com/s/1wfjTaBPOv--NCSPktKA8Ag )  提取码：75fr 
--  [Python科学计算与数据分析](https://pan.baidu.com/s/1qW_pimex5qslxTayr5yqzw )  提取码：5pme 
--  [Python开发实战](https://pan.baidu.com/s/1uZhxGROvdayT1ehCqPszmw )  提取码：nlmn 
--  [Python开发技术详解](https://pan.baidu.com/s/1KL7Pg-TrPJDa2bSUExESUA  )  提取码：eard 
--  [Python金融大数据分析](https://pan.baidu.com/s/16g2O-PDG6c1YnYMP1Fg9Cw )  提取码：sbre 
--  [python基础教程（第二版）](https://pan.baidu.com/s/1VufcfKdqg-Q0Sb9P12d3DQ )  提取码：tzcv 
--  [Python灰帽子——黑客与逆向工程师的Python编程之道](https://pan.baidu.com/s/1vPOdJ6nezjiyr7lLIgEjog  )  提取码：fn47 
--  [Python核心编程 第3版 中文版](https://pan.baidu.com/s/1Smojxqv70DmA41vRePs15A )  提取码：lxej 
--  [Python高级编程第2版_张亮 阿信（译）_人民邮电出版社_2017-10_v2_完整版](https://pan.baidu.com/s/14Y3P6OE6NSMGxSNmObJUjw )  提取码：bz53 
--  [python操作word,excel,pdf](https://pan.baidu.com/s/1p4KYE98Uxw4mvWlLnJgBgg  )  提取码：wdkz 
--  [Python编程-数据挖掘入门与实践(中文完整版)-图灵程序](https://pan.baidu.com/s/1Gjxc8Fz8t3ehxcm5biUdog)  提取码：jmoo
--  [Python编程入门经典](https://pan.baidu.com/s/15iITs_WpukTQy-2Z8Pp1Uw  )  提取码：7uzb 
--  [Python编程快速上手 让繁琐工作自动化](https://pan.baidu.com/s/1PommQ_Ud6pVrvO5Xvnov5A  )  提取码：4q4o 
--  [Python编程初学者指南](https://pan.baidu.com/s/1jVob2p5YbTbPNjC62uJj1A )  提取码：thk0 
--  [Python编程：从入门到实践](https://pan.baidu.com/s/1_JUssR69F721DucTlchNXA )  提取码：gaf0  
--  [Python3网络爬虫数据采集](https://pan.baidu.com/s/11xsh6Wt5wH8UNvmZJT5JPg  )  提取码：k8e2 
--  [Python3简明教程](https://pan.baidu.com/s/1JLA3e-4GcdaD6hJHQRY76Q )  提取码：nbrw
--  [Python3.5.2--入门指南-高清](https://pan.baidu.com/s/1YOGNBdx9T64wTiNOpWTcUQ )  提取码：suck 
--  [Python for Data Analysis](https://pan.baidu.com/s/1Bk1P2zxNHPQmkO3-c99LVw )  提取码：7y7w 
--  [Python Cookbook（第3版）中文版](https://pan.baidu.com/s/1LISCtWE-v6BTsHHUmUTtvA  )  提取码：360r
--  [Pandas Basics](https://pan.baidu.com/s/1SnLDPvtYk6Bh1ZjRAM2vmg )  提取码：noqk 
--  [NumPy Basics](https://pan.baidu.com/s/1og9UMfdqmnw3W4X92Yyvzg  )  提取码：iy54 
--  [Deep_Learning_With_Python](https://pan.baidu.com/s/1EeGnHAnTLo74OnfOaN3JyQ)  提取码：ahw3  
--  [B站-python3数据分析与挖掘建模实战](https://pan.baidu.com/s/11FQ5T2xvB9rCjljKOUQxjA )  提取码：kzzd 
--  [B站_用Tableau做数据分析](https://pan.baidu.com/s/1BXUcFdfemeQSDdcFGnIAWw )  提取码：ac39 
--  [B站 - 七周成为数据分析师_课件](https://pan.baidu.com/s/1lHYVBbYyGGa6W5tgmgHvTg  )  提取码：wpuo 
--  [A Byte of Python3(中文版)](https://pan.baidu.com/s/1daqXTHLW1Yuho6YGuyW3Kg )  提取码：m5jk 
--  [《触手可及的大数据分析工具：Tableau案例集》数据源](https://pan.baidu.com/s/1jsS-TO6opRDOTXHF_0nQ9Q )  提取码：ui1b
+- [C和C++代码精粹](https://pan.baidu.com/s/1Ka4V-RtpTxKwh-w41aAnUQ)    提取码: 5jv5
 
-## 5 Go
+- [C数学算法](https://pan.baidu.com/s/1RJu9aC_j7YrFtm3YFXHUoA)    提取码: 1804
 
--  [Go并发编程实战](https://pan.baidu.com/s/18YOmYXd65ZM1w6nKMhyTpw )  提取码：59m6 
--  [Go语言实战](https://pan.baidu.com/s/10SsqtZIZnj8n0EiYr8qHQA )  提取码：dw0z 
--  [学习 Go 语言(Golang)](https://pan.baidu.com/s/1ct5IqRjvGSSxDIgLybWZEw )  提取码：86nv 
--  [Go语言圣经](https://pan.baidu.com/s/1jRmcwZUgIadxW9mo69SfYQ )  提取码：i4c5 
--  [Go语言程序设计](https://pan.baidu.com/s/1KpP2xECPBn6iPVKGdZBEAg )  提取码：kzhd 
--  [Go语言标准库参考](https://pan.baidu.com/s/1bJopf9JJNUDB2bc08BgrXw )  提取码：s4j4 
--  [Go语言编程](https://pan.baidu.com/s/12Z0v-vjG6Fu9atGMigMknA  )  提取码：jzpt 
--  [Go_web_编程](https://pan.baidu.com/s/1kzfW8B6D5jzP4pa3IB1YeA  )  提取码：3t88 
+- [C语言程序开发范例宝典](https://pan.baidu.com/s/1_Lim1IYuqS9iwktmjr_Rpg)    提取码: mb15
 
+- [C和指针(第二版)](https://pan.baidu.com/s/1ZUHKQcEmDKn4IYL45LPHhA)    提取码: 71vi
 
+- [C语言接口与实现](https://pan.baidu.com/s/1bINm7_yH4ren3KJRRT2-Pw)    提取码: eml7
 
-## 6 数据结构与算法
+- [C语言实例解析精粹](https://pan.baidu.com/s/1KTV7zfhtJF37NQwVMqc1eQ)    提取码: 0jq8
 
--  [严蔚敏：数据结构题集(C语言版)](https://pan.baidu.com/s/12ACOBkG1hDfZLPpDRqDQfw )  提取码：sr0k 
--  [挑战程序设计竞赛(第2版)](https://pan.baidu.com/s/1v_Y7aJnaHPTiirMNyNxxzg  )  提取码：5nyy 
--  [挑战程序设计竞赛(第1版)](https://pan.baidu.com/s/1zXxOS_640lRRAy9k2PTf6Q )  提取码：b5qt 
--  [算法图解](https://pan.baidu.com/s/1vm9QQE0bh-Jvc8ssTO7Ipg )  提取码：s7bs   
--  [算法谜题](https://pan.baidu.com/s/1X9Dt9vVTKsqGjCNRGg6rEg  )  提取码：kq3c  
--  [算法分析与设计](https://pan.baidu.com/s/1FbYYJveY-3FL6QQUoo_5ig)  提取码：arp2 
--  [算法导论中文版](https://pan.baidu.com/s/1cYP0cHLt2K1ESr7viKI_xg )  提取码：bfni 
--  [算法导论_原书第3版_CHS](https://pan.baidu.com/s/1J2FLxxRCoEyuhoaKpjjF-g  )  提取码：1lg2 
--  [算法（第4版）](https://pan.baidu.com/s/1DVnsbZyYU4Dt-pZD0mTNoA  )  提取码：zidu 
--  [数据结构与算法分析——Java语言描述](https://pan.baidu.com/s/1PkIRCNQ3xWlmqiKjF61qQg  )  提取码：0wv6  
--  [数据结构与算法分析C++描述](https://pan.baidu.com/s/14gjB8vzejJFrRgivuHOoRw)  提取码：jsei 
--  [数据结构与算法分析：C语言描述_原书第2版_高清版](https://pan.baidu.com/s/1Bf2n2fDS8h2jA7dVEK1yfQ)  提取码：ldis 
--  [数据结构与算法 Python语言描述_裘宗燕](https://pan.baidu.com/s/1z69IbpDEeKE6ZGkb65knIQ  )  提取码：4ot7 
--  [数据结构 C语言 严蔚敏 pdf](https://pan.baidu.com/s/1xhOo47cbDzMNjw6IGpItgQ )  提取码：eb59 
--  [妙趣横生的算法（C语言实现 第2版）](https://pan.baidu.com/s/1_TuZcn1X9eBTo6ajNKy8Gg )  提取码：xa9g 
--  [漫画算法：小灰的算法之旅](https://pan.baidu.com/s/1HXAbUS7Im98y94Z1D0lXAw  )  提取码：1gop 
--  [剑指offer](https://pan.baidu.com/s/1L7x7xr555ZtdKEglcn-TrQ )  提取码：tc54 
--  [计算机程序设计艺术卷一：基本算法](https://pan.baidu.com/s/1pQlaoYa93OvdN96Rg-NTPg )  提取码：red5 
--  [计算机程序设计艺术卷三：排序与查找](https://pan.baidu.com/s/1WtJrWZxBjqMIiBPX763p3w  )  提取码：lzrv 
--  [计算机程序设计艺术卷二：半数值算法](https://pan.baidu.com/s/146ZONlbvHPxxcM1pcn7cjA )  提取码：xmtx 
--  [大话数据结构](https://pan.baidu.com/s/1t95HTFBMzKnbqDtJxgStDw )  提取码：qlsa 
--  [程序员面试金典](https://pan.baidu.com/s/1gHS-2D8ei9XP6lKMyi0STw )  提取码：5ekq 
--  [程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著）](https://pan.baidu.com/s/15ZafnNl_SIshoNa5HzGFJw  )  提取码：h7px 
--  [编程珠玑 英文第二版-Programming.Pearls](https://pan.baidu.com/s/1KmK2RfXF1DDBAIiIsQIxCA  )  提取码：xxk1 
--  [编程珠玑 第二版 人民邮电出版社](https://pan.baidu.com/s/1I5V1PA_HGvhOE5vrkjFICQ  )  提取码：u5o4 
--  [编程之美-完整版](https://pan.baidu.com/s/1JueKxuoY0vDvempFmJbCVw  )  提取码：tbip 
--  [背包九讲](https://pan.baidu.com/s/1I83eiuNmMcmgyZO_ehfATA )  提取码：r875 
--  [啊哈！算法 哈磊](https://pan.baidu.com/s/16qg3chGyLy5ZXyedWsfzOg  )  提取码：ixdm 
--  [Sedgewick-Algorithms](https://pan.baidu.com/s/1LLwNSXF6Fr12QVzdwAOzaQ )  提取码：o671 
--  [labuladong的算法小抄官方完整版](https://pan.baidu.com/s/15PYAOtccMkkrAmnKZMZ-Kg )  提取码：yhtu 
--  [Java数据结构和算法.（第二版）](https://pan.baidu.com/s/1-cYVZZ4YPi45nl4Z78EsSg )  提取码：euof 
--  [JavaScrit数据结构与算法（第2版）](https://pan.baidu.com/s/1hyOGetACjWqruNfpmRkMdQ   )  提取码：9mpx 
--  [Cormen-Introduction to Algorithms](https://pan.baidu.com/s/1GGLrBkodMa-aw7qlSgimLA  )  提取码：kwde 
--  [cookbook-LeetCode](https://pan.baidu.com/s/12IDLcj5xDAfp66MdIjr69w  )  提取码：mbjx 
+- [C陷阱与缺陷](https://pan.baidu.com/s/1LK7noOsZNah9pVouz4Yiaw)    提取码: fim2
 
+- [C语言接口技术](https://pan.baidu.com/s/1aeShiAaznDLkFWeIrBscMQ)    提取码: s97i
 
-## 7 计算机系统知识
+- [C陷阱与缺陷](https://pan.baidu.com/s/1mcieSOWNLbcpXdTcg1Goig)    提取码: 9f10
 
--  [计算机组成与设计：硬件_软件接口](https://pan.baidu.com/s/1YJISmqHpnGdO2tz27FfWMw  )  提取码：y35y 
--  [计算机是怎样跑起来的](https://pan.baidu.com/s/1l12egVH4bRPZCuesQhPpNw )  提取码：aqhp  
--  [程序员的自我修养—链接、装载与库--书签目录](https://pan.baidu.com/s/1jc5ayuGJpcf5A-nn4n3G8Q )  提取码：2gnt 
--  [Patterson-Computer Organization and Design_The Hardware_Software Interface](https://pan.baidu.com/s/1zc-4Hn2NEi4KXkpRL3cGyA  )  提取码：qt9j 
--  [程序是怎样跑起来的](https://pan.baidu.com/s/1Mdi5SLq-MdxfqNFvrhv0FQ )  提取码：gle6  
--  [《大话计算机》](https://pan.baidu.com/s/1y4hMFuc55ZaBhMuswMS6GQ )  提取码：iyeh 
--  [编码：隐匿在计算机软硬件背后的语言英文版](https://pan.baidu.com/s/1Rrjv7hGNmuLtD6gYBNkuyw  )  提取码：g6in 
+## 2、C++
 
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/02.md)
 
-## 8 计算机网路
+- [STL源码剖析PDF及源码](https://pan.baidu.com/s/1qUf7JLp1QZWJtiRs7XxBYw)    提取码: pi89
 
--  [网络是怎样连接的 (图灵程序设计丛书)](https://pan.baidu.com/s/1T5lTH7T_LNLsh9X0yQKqLQ  )  提取码：pmhy   
--  [图解TCPIP(第5版)](https://pan.baidu.com/s/1jsiabyTcvMpaUpJWOf7kDA )  提取码：j09w 
--  [图解HTTP](https://pan.baidu.com/s/128Nu3tuy6SolVnx546b83A  )  提取码：zssm 
--  [计算机网络-自顶向下方法-第6版](https://pan.baidu.com/s/1X9n8dqtpdW5gsKLL2IdCVA  )  提取码：14lj 
--  [计算机网络：自顶向下方法课后习题参考答案](https://pan.baidu.com/s/1aEA_k5f43tL55LPxMbSw1w )  提取码：8kxx 
--  [计算机网络：系统方法](https://pan.baidu.com/s/1DIAMPFeMs6npr8WFaHFSWA )  提取码：jvdp 
--  [计算机网络 第七版](https://pan.baidu.com/s/14oWnxFKo5RifubnbOAK9lw )  提取码：sj22   
--  [Wireshark网络分析就这么简单](https://pan.baidu.com/s/1suXopOy54bYWkJP-VSuCCg )  提取码：39nu 
--  [Wireshark网络分析的艺术](https://pan.baidu.com/s/1IzKOUEN4PiLR8WY--noSsw )  提取码：rds8 
--  [Wireshark 数据包分析实战（第二版）](https://pan.baidu.com/s/1qRnZEvmDCrgmTc1T8zHg9A  )  提取码：9khg 
--  [tcp源码分析](https://pan.baidu.com/s/1VbdOGtHNaVADrFTzvm9J7w)  提取码：amtv 
--  [TCP-IP详解卷三](https://pan.baidu.com/s/1_phwDLj4LRxnshVu4nnLig)  提取码：8bi3 
--  [TCP-IP详解卷二：实现](https://pan.baidu.com/s/18vCrvkVz7Vbh1DeAwHHtjg  )  提取码：13pc 
--  [TCP-IP详解卷1：协议](https://pan.baidu.com/s/1D5tatJHhgD3CYvZBR15fGA  )  提取码：cntl 
--  [HTTP权威指南](https://pan.baidu.com/s/1pgLjpm4w8pkOfsDA3fMUDg )  提取码：9ci0 
--  [Http核心总结](https://pan.baidu.com/s/1Y1zFNNGP11-tKhsgM6U0YA )  提取码：euwy 
--  [Computer Networks, A Systems Approach](https://pan.baidu.com/s/1bvXn_RoJ5bWre-pej3FR1Q )  提取码：vm4o 
--  [Computer Networking_ A Top-down Approach](https://pan.baidu.com/s/17oZK_jLBqq9aE4CIHA0UVw )  提取码：3i1q 
+- [STL课件](https://pan.baidu.com/s/1kiyegM9Jb4Q8fuWX4269vA)    提取码: c89q
 
+- [提高C++性能的编程技术](https://pan.baidu.com/s/1MDs2KQ5ikSiiS-2GscmICQ)    提取码: 2nns
 
-## 9 操作系统
+- [C++.STL中文版](https://pan.baidu.com/s/1yX4lldelmXZ_Lhjlz_LnDg)    提取码: mu0i
 
--  [深入理解计算机系统 第3版](https://pan.baidu.com/s/1mhfGB1W79ANWMBH4-L3H9g  )  提取码：0vyr 
--  [操作系统真象还原](https://pan.baidu.com/s/15sE9QPhlmdPovo0sSsTQ2g  )  提取码：wzwl 
--  [现代操作系统（第三版）中文版](https://pan.baidu.com/s/1hBunMA9vl71YcTLT1QWSJg  )  提取码：0hxr 
--  [自己动手写操作系统](https://pan.baidu.com/s/1OTUmIXcyen8gZzuXRuGzQg )  提取码：02pa 
--  [分布式系统概念与设计 原书第5版](https://pan.baidu.com/s/1JWFdQ4SM3lCrIUQyEX-vGw  )  提取码：22ok 
--  [计算机系统要素 - 从零开始构建现代计算机](https://pan.baidu.com/s/1J4WbxixRpXJqo8el-D0ZdA )  提取码：gis3 
--  [操作系统之哲学原理 第2版](https://pan.baidu.com/s/1OPsbGeLY-436FYhmxWpbeQ  )  提取码：jcdy 
--  [现代操作系统 - 英文版](https://pan.baidu.com/s/1-5IB307X6s9__wptejV0Yw )  提取码：j06x 
--  [编译原理](https://pan.baidu.com/s/1TG2VEwvMT_8hH58G2ir58A )  提取码：4c8n 
--  [操作系统概念](https://pan.baidu.com/s/1AZPgXq4MF4cilnjytniU5g  )  提取码：9ejn 
--  [Orange's一个操作系统的实现](https://pan.baidu.com/s/1lGeTl7FGJoLdsMszLJilyw )  提取码：fw2i 
--  [操作系统精髓与设计原理 第8版](https://pan.baidu.com/s/1HRran0kTUEvE4K3eMA2tqQ )  提取码：hu5w 
--  [CMU2017-Lab](https://pan.baidu.com/s/1YzQg_MyYnCm8fhMgdIubTQ  )  提取码：ahha 
--  [操作系统精髓与设计原理 第9版](https://pan.baidu.com/s/10qdj612xnt3G6cPgG9hkig )  提取码：fw2i 
--  [Compilers_ Principles, Techniques, and Tools](https://pan.baidu.com/s/1zdquDVffnvOcVn-XqufFTQ  )  提取码：ntrl 
--  [30天自制操作系统 (图灵程序设计丛书)](https://pan.baidu.com/s/1F7_aRjuDEqPsqdc0onxfBA )  提取码：ht4l  
--  [Computer Systems_ A Programmer's Perspective](https://pan.baidu.com/s/1s9jnHvquefDZ6umoo9DOLg  )  提取码：4qc4 
+- [C++Primer习题集第5版,（美）李普曼,P520](https://pan.baidu.com/s/1x8v4HHw5T6ocVyjmEG9d3w)    提取码: bm22
 
-## 10 Linux
+- [EffectiveModernC++(2017.11最新版)](https://pan.baidu.com/s/146R5_GtbwB5cbV-FxHpPOg)    提取码: 4qg6
 
--  [深入Linux内核架构 (图灵程序设计丛书·LinuxUNIX系列)](https://pan.baidu.com/s/1NHOhAsqWZKc_T-fgAUdasA  )  提取码：1h66 
--  [鸟哥的Linux私房菜基础篇和服务器篇](https://pan.baidu.com/s/14zOVy3cffprJRKYn3GJdiQ )  提取码：rszx
--  [汇编语言基于linux环境第3版](https://pan.baidu.com/s/1xefUULAlVaZM8o3bHlU7dg  )  提取码：m9op 
--  [UNIX网络编程卷2：进程间通信](https://pan.baidu.com/s/1qNFDjWHNLpiJi1O60zkpbA )  提取码：29gn 
--  [UNIX网络编程卷1 API](https://pan.baidu.com/s/1jQSnM2YPxwIiI9C03_hiQQ )  提取码：bful 
--  [UNIX 环境高级编程 第3版](https://pan.baidu.com/s/1JssCdx2yrj_jgRSBxb2wBw )  提取码：3dwv 
--  [Unix & Linux 大学教程](https://pan.baidu.com/s/197bOSTAX8HvPgcLfa9g8HQ  )  提取码：n5xm 
--  [Linux系统命令及shell脚本实践指南linuxunix技术丛书](https://pan.baidu.com/s/1XJTNNDGpkWO8eFwVkJgy3Q )  提取码：mhca 
--  [linux内核完全注释](https://pan.baidu.com/s/1ymU8j9jD5hC64qbqgCZWQg )  提取码：xirl 
--  [Linux内核设计与实现 第3版_优先看](https://pan.baidu.com/s/1Wv5C956vEYZqPB5RuwqF2g )  提取码：do5m 
--  [Linux环境编程：从应用到内核](https://pan.baidu.com/s/1ga9GEIXwMP1lG7yxMcwedg )  提取码：7w4x 
--  [Linux高级程序设计中文第三版杨宗德--人电出版社](https://pan.baidu.com/s/19tbW1jlQRY3vxBoRPo7EBA )  提取码：80bx 
--  [LINUX防火墙（原书第3版）](https://pan.baidu.com/s/1997I5p6pC_iFDjMaPSUr8w  )  提取码：n8p1 
--  [linux常用命令大全](https://pan.baidu.com/s/1zGL1MNe2DFv6CGbfw4GqWw  )  提取码：4hbs 
--  [Linux_UNIX系统编程手册（下）](https://pan.baidu.com/s/10tvyBCSASP3efSmjv-csGQ  )  提取码：1t0f 
--  [Linux_UNIX系统编程手册（上）](https://pan.baidu.com/s/1i_ZyqSzGsRPXgUflDwoa9g  )  提取码：w21x
--  [Linux 内核设计与实现](https://pan.baidu.com/s/1wybzOka0ihNuRl1keim-lA  )  提取码：epgt 
--  [Linux Kernel Development](https://pan.baidu.com/s/1YOaK_LWV805Qidgf5zSV3w  )  提取码：hd05 
--  [Harley Hahn's Guide to UNIX and Linux](https://pan.baidu.com/s/1r05OlnyjxFkzDXFLPCkV3w  )  提取码：leyy 
--  [Advanced Programming in the UNIX® Environment](https://pan.baidu.com/s/1G0PwwdpC-ph7je03S3DeMw  )  提取码：ahwd 
--  [《UNIX系统编程手册 下》.((德)Michael Kerrisk ).[PDF]@ckook](https://pan.baidu.com/s/1LEO4Oqw6ka0g_99QarF2hA  )  提取码：9wb9 
--  [《UNIX系统编程手册 上》.((德)Michael Kerrisk ).[PDF]@ckook](https://pan.baidu.com/s/1dKboHkt7DZrpLC9LEut9_w )  提取码：iewr 
--  [[Linux命令详解词典].施威铭研究室.扫描版](https://pan.baidu.com/s/1uER5GOHVweGZaKkRQyH3hQ )  提取码：4fko 
+- [C++Primer（第5版）_带书签_高清完整版](https://pan.baidu.com/s/1HStBkRCLJRF8yOsQeUpwqg)    提取码: 0bje
 
+- [C++并发编程实战(中文版)](https://pan.baidu.com/s/1NjTRVHbSMJGTeOmz_L6KKg)    提取码: m4qf
 
+- [深入理解C++11](https://pan.baidu.com/s/1AWXZKRvkUTciI6YPucFvYw)    提取码: n4s8
 
-## 11 汇编语言
+- [C++编程规范](https://pan.baidu.com/s/12H4Oj6SLdPrBQ3RzL9mcjg)    提取码: 8m13
 
--  [老“码”识途 从机器码到框架的系统观逆向修炼之路](https://pan.baidu.com/s/1PaTbBKpgSUp1jMx2dUijHw  )  提取码：dggc 
--  [汇编语言_王爽及相关资料](https://pan.baidu.com/s/1QzIdEh-VHaPP6XpGfaQ1Eg  )  提取码：cocu 
--  [x86汇编语言：从实模式到保护模式_书籍及配套资料](https://pan.baidu.com/s/1SM5nwv4CuLk6-GqtZKtxhw)  提取码：pq7k 
--  [80x86汇编语言程序设计教程](https://pan.baidu.com/s/1LsdD8mgaFUJQDco_OxTPkQ )  提取码：4hpy 
+- [VisualC++数字图像模式识别技术详解第2版](https://pan.baidu.com/s/1WdTrQHYvZ2Iyo6qCG-Whtg)    提取码: a4ss
 
+- [C++TemplatesTheCompleteGuide(2nd)](https://pan.baidu.com/s/1Jg04J7uZopKmQhtG8zoPNQ)    提取码: juq7
 
-## 12 数据库
+- [VisualC++数字图像处理典型案例详解.(沈晶,刘海波).PDF.&ckook](https://pan.baidu.com/s/1UiFxcysrjZhQ-pME1CydVg)    提取码: vufg
 
--  [数据库系统实现（第二版）](https://pan.baidu.com/s/1Ez9ke2T7V4qW35FUAmN7Jg )  提取码：6oi6 
--  [数据库系统概念](https://pan.baidu.com/s/1SUNmqAEzkf1MkmCP-kCLaQ )  提取码：7bt0 
--  [数据库系统概念 中文第6版](https://pan.baidu.com/s/1pW8zB8wdes61jbIopBTJGg )  提取码：kqe0  
--  [深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明](https://pan.baidu.com/s/11Pxb89VnWTsIefKLs8D4mg )  提取码：zjt8  
--  [高性能MySQL（第3版）](https://pan.baidu.com/s/1KBqdWuB2Xg78FGKd8gusVg )  提取码：rghv
--  [分布式数据库系统原理.第3版](https://pan.baidu.com/s/1u2lq6T5ryyr4CoJbYsmihA  )  提取码：arpa  
--  [分布式数据库系统  大数据时代新型数据库技术__于戈等编著_北京：机械工业出版社](https://pan.baidu.com/s/1T3vKI_LQM3eiMavkLMv88w )  提取码：11nz 
--  [SQL查询的艺术](https://pan.baidu.com/s/1u72WTSU6Qdi4hG4D9BqUNw )  提取码：lwrz  
--  [SQLite 权威指南](https://pan.baidu.com/s/1yN31qm6uv9jKt0YY71i2tA )  提取码：2d4q  
--  [Redis实战](https://pan.baidu.com/s/1k1hQuJaeBAJEULFxLPezwA  )  提取码：8mub 
--  [Redis设计与实现](https://pan.baidu.com/s/1yZJNVkPZBKk_AQOGKVo94A  )  提取码：pzt5 
--  [Redis开发与运维](https://pan.baidu.com/s/1R9SIiPksq3dXVySOH2RLzg  )  提取码：wvmm   
--  [MySQL技术内幕  InnoDB存储引擎  第2版](https://pan.baidu.com/s/1QagXepJ3d6kk1J1tP5R-CA )  提取码：5lnc  
--  [MongoDB权威指南](https://pan.baidu.com/s/1GAti-ZZlf2vjSD-6bIfdvg )  提取码：dymm 
--  [Database System Concepts](https://pan.baidu.com/s/1r9T5PITL8i6-UlxKtbx_OA  )  提取码：zfnb 
--  [《MySQL必知必会》PDF + 源码](https://pan.baidu.com/s/1rfa4c9BGQVU_Z9BXoyxXaw  )  提取码：l09b  
+- [C和指针（中文版）](https://pan.baidu.com/s/1h1YllBXi6OASL044YApKIw)    提取码: vqva
 
+- [STL源码剖析(中文完整版带书签)](https://pan.baidu.com/s/17qi4YQCGRFiwW8jHk1E2Pg)    提取码: 565j
 
-## 13 设计模式
+- [深度探索C++对象模型](https://pan.baidu.com/s/10wuv6x4LrTwpWBpeiucb3A)    提取码: e8c9
 
--  [研磨设计模式](https://pan.baidu.com/s/1RXCPFpxM37YwX_7PRjCz3Q  )  提取码：zwdg
--  [图解设计模式](https://pan.baidu.com/s/13PyfbZHnkRHxnaCU_3rkwQ)  提取码：0br5 
--  [敏捷开发-设计模式](https://pan.baidu.com/s/1rM7wi9MfNVEIG1lSV3w5qQ )  提取码：qz68  
--  [大话设计模式](https://pan.baidu.com/s/1l74SrqIVV73nUHS_7ePKdQ )  提取码：gl1g 
--  [HeadFirst设计模式（中文版）](https://pan.baidu.com/s/19G30roT-Gnj7VnUBIwR6bw  )  提取码：b2zi 
--  [head first design patterns](https://pan.baidu.com/s/1tF9mOnn1vFcFfaBLGTVuwQ )  提取码：oexz
--  [C++版常见设计模式解析与实现](https://pan.baidu.com/s/1FqQppZl7PvJMyfyriHARRA )  提取码：ikay 
+- [深度探索C++对象模型PDF中文清晰版](https://pan.baidu.com/s/1WKH2MyxKmQR4Qv_FcqD7PQ)    提取码: 6jah
 
-## 14 前端
+- [EffectiveSTL中文版](https://pan.baidu.com/s/1fsrXXkjcVXihhJpL3Ghzuw)    提取码: g1j8
 
--  [深入浅出Node.js](https://pan.baidu.com/s/15IWDxYdXP4OcyluBIKLCWw )  提取码：nydl 
--  [疯狂ajax讲义](https://pan.baidu.com/s/1K2UQyUbMe_oegGg-VHTM1w )  提取码：10do  
--  [nodebook](https://pan.baidu.com/s/1yxVKGe5lwywNnvU-M5G8cQ )  提取码：eo8x
--  [Node.js开发指南](https://pan.baidu.com/s/1V3DQAbzLbsHTwBphjUwsEQ )  提取码：2al6 
--  [jQuery权威指南](https://pan.baidu.com/s/1bUNWoXHRjPBxc9Wyf1lvGA  )  提取码：zd79 
--  [jQuery技术内幕 深入解析jQuery架构设计与实现原理](https://pan.baidu.com/s/1e8RkLrhGauMZ17lPCvQiuQ)  提取码：5nmk 
--  [jQuery高级编程，中文完整扫描版](https://pan.baidu.com/s/1iFPuyngbCf7kUhhDnZKSXg  )  提取码：92eh 
--  [javascript高级程序设计](https://pan.baidu.com/s/15llgSGXVBF-S9aiIcNe46Q )  提取码：85r1  
--  [Javascript 高效图形编程-中文版](https://pan.baidu.com/s/1-vm-gzlWF4y4pMhgS-hzww )  提取码：gur3 
--  [HTML5与CSS3基础教程（第8版）](https://pan.baidu.com/s/1ePWPXYeNI_RgCULXgVhJaQ )  提取码：qqr8 
--  [HTML5揭秘](https://pan.baidu.com/s/1ni-7s0lrnzAyMdxnN4GWpg  )  提取码：stzj 
--  [Bootstrap实战](https://pan.baidu.com/s/1LXkMA1YOhB-92DDDSpj8vw )  提取码：85ex 
--  [【JavaScript高级程序设计（第3版）】中文 高清](https://pan.baidu.com/s/1hBpY37JTAI8i_UOJ_mdVcw  )  提取码：hfkq 
--  [JavaScript.DOM编程艺术（第2版）](https://pan.baidu.com/s/10Vgo1xnN4CdipsFKRyxixg )  提取码：5hjh  
--  [[HTML与CSS入门经典(第7版)].（美）奥利弗，（美）莫里森.扫描版](https://pan.baidu.com/s/1L7Fr5vanqXPtqaobMruTXg )  提取码：dcx2 
+- [C++课件_面向对象高级编程](https://pan.baidu.com/s/1Iwzh4UESTKaVkHpt51kPWA)    提取码: b3o5
 
-## 15 笔试面试
+- [EffectiveModernC++](https://pan.baidu.com/s/1rOY5F-iRQpiCsudZrYCspw)    提取码: u7ik
 
--  [招聘笔记](https://pan.baidu.com/s/12YzqwrYWT68q4HLtxTc1Tw )  提取码：zjne 
--  [牛客网Java工程师校招面试题库](https://pan.baidu.com/s/12lELzJ8Yz_cm_MiaFdBr8g )  提取码：qeks 
--  [牛客网IT名企2016笔试真题+答案](https://pan.baidu.com/s/10tFyEmFTe2SMWB5HjJ9YaA )  提取码：7vyy 
--  [牛客SQL练习题1-61答案与解析](https://pan.baidu.com/s/1Zat5NJSteTBK1nAJlPPh0w  )  提取码：dsee
--  [机器学习常见面试题](https://pan.baidu.com/s/1QDvcLmLbEXuzLrNaHLvMZQ )  提取码：2qrz 
--  [机器学习 算法工程师带你去面试](https://pan.baidu.com/s/1VKa_VZnosXij3osTJRlsvQ )  提取码：rp5t 
--  [程序员面试宝典](https://pan.baidu.com/s/1_HfsGSMrP0bdb5Wtgp06Vg )  提取码：migk 
--  [阿里Java面试问题大全](https://pan.baidu.com/s/1RemR_D7zIXjRL1N2uBDfEA )  提取码：vg1e 
--  [Java突击面试大总结](https://pan.baidu.com/s/1XhUoFfmfuN6JQJyzQE5b-g )  提取码：u7mf
--  [Java面试突击-V3.0](https://pan.baidu.com/s/1jlOFiGdMTAGYmog0EnU5OQ )  提取码：tn5g 
--  [Java程序员面试宝典](https://pan.baidu.com/s/1Eg5gAN4wQh66EqkuioeAIw  )  提取码：tgbh 
--  [c++面经总结](https://pan.baidu.com/s/1szK8-pZnHgQkFCQrLQlTHg )  提取码：k5da 
--  [C++面经 - 牛客大佬总结的涉及C++ 操作系统 计算机网络 数据库等知识点](https://pan.baidu.com/s/1t0Y-I7iaQFUxC5oUwofMJA  )  提取码：5hyz 
--  [2018最新BAT python面试题](https://pan.baidu.com/s/1svpSHMQa50vyXo90j3v-Eg  )  提取码：rbtt   
+- [Cpp.模板元编程](https://pan.baidu.com/s/12XwtderCwgsEy5SfOirVQg)    提取码: qfci
 
-## 16 git
+- [EffectiveC++中文版第三版高清PDF](https://pan.baidu.com/s/1n9t1nQwUa8t2y3PKmFdJ-A)    提取码: 0bds
 
--  [专业git中文](https://pan.baidu.com/s/1_zH3C0e3hwBNvqNGlw8KMA  )  提取码：afqe 
--  [从0开始学习GitHub系列](https://pan.baidu.com/s/1SQPiq9BrdJfMctf4w5TRYA )  提取码：2944 
--  [Git权威指南](https://pan.baidu.com/s/1aCtYASODVilebGlVWJRt8w  )  提取码：sg9l 
--  [Git参考手册-新](https://pan.baidu.com/s/1QV1zJtEeGNq4r1p-E6PmyQ  )  提取码：fkhg
+- [C++设计新思维泛型编程与设计模式之应](https://pan.baidu.com/s/10F_t2DPW53oJfB59QFxvag)    提取码: lihv
 
-## 17 软技能
+- [C++面向对象多线程编程](https://pan.baidu.com/s/1bOFtSXowpk6E17vejFHL2g)    提取码: 3wdd
 
--  [重构：改善既有代码的设计（第2版）](https://pan.baidu.com/s/11RUaaRTzr23TMCaFQawM3w)  提取码：rgvj
--  [孙金城丨阿里巴巴-Blink SQL关键技术及实现原理](https://pan.baidu.com/s/1QXc1l88RoSbv3vaIha3WNg)  提取码：kna9 
--  [软件工程-实践者的研究方法.8th](https://pan.baidu.com/s/146tQFKv_DyFOXkJtdMl-QA )  提取码：3r05 
--  [人月神话-中文-目录-文字版](https://pan.baidu.com/s/1hyNonwQ1U7KFc-xps7keeg )  提取码：nft9 
--  [敏捷软件开发：原则、模式与实践](https://pan.baidu.com/s/1szJU6lyxC_BKPEzqSYAWSA )  提取码：egls 
--  [浪潮之巅（完整版）](https://pan.baidu.com/s/10dnEHg40xlxZwvwubNWPCA)  提取码：421n 
--  [技术之瞳+阿里巴巴技术笔试心得](https://pan.baidu.com/s/1QAbHRHZH_w1NlsHlj1B8sQ  )  提取码：x61c  
--  [华为金融大数据解决方案汇报V2.0](https://pan.baidu.com/s/12KNGcDTiji3dHJ3tUIn2gQ )  提取码：axs5 
--  [华为大数据应用开发指南](https://pan.baidu.com/s/1dTcIqIkK9LgdF1HbHiWWsQ )  提取码：w13i
--  [黑客与画家](https://pan.baidu.com/s/1TiH_Mn3i_C2QIAMJ2_-ktA)  提取码：npt5   
--  [概念与技术（第3版）](https://pan.baidu.com/s/18PnDMkaAm5zF7LioYxtPFQ )  提取码：rat4   
--  [代码整洁之道](https://pan.baidu.com/s/1xYuj5O3OFI4lJXl76u68Pw )  提取码：chra
--  [代码大全2中文版](https://pan.baidu.com/s/1dCVYr7KTexzHemXlgv1s4g )  提取码：4vf7 
--  [大数据之路：阿里巴巴大数据实践](https://pan.baidu.com/s/1hl0uG0Z3m5g5PayBnGVT0g )  提取码：fvpb 
--  [程序员健康指南](https://pan.baidu.com/s/1WNkqUQPSIKBccNpBvNn9PQ )  提取码：pfkw 
--  [程序开发心理学](https://pan.baidu.com/s/1L4sdE-BtdULOrYlYpLZ8fA )  提取码：77vy
--  [奔跑吧，程序员：从零开始打造产品、技术和团队](https://pan.baidu.com/s/1uv5LmbHNS9JKdzbHGVBmKg )  提取码：u5xp 
--  [阿里双十一技术](https://pan.baidu.com/s/1FwgmZqmS3m6d7b7TAlP0Kw )  提取码：hyff 
--  [how-to-be-a-programmer-cn](https://pan.baidu.com/s/18cgnL8pxPYQtxvhqUn7Svg )  提取码：okjh 
--  [《码农翻身：用故事给技术加点料》_刘欣](https://pan.baidu.com/s/1oKndjbBF4jwFgRrS-v7iVw )  提取码：up79 
+- [EffectiveC++](https://pan.baidu.com/s/1JlVoHdLoKHPBnhWzV6Rzdg)    提取码: 73cd
 
-## 18 程序员相关的数学
+- [Cpp.模板元编程](https://pan.baidu.com/s/1v6ukyRVYfgXQd6fFez7SXA)    提取码: ggo0
 
--  [数学之美](https://pan.baidu.com/s/1Vkaj-F0d4iJOcpSiMG6amQ )  提取码：pdy7 
--  [离散数学及其应用](https://pan.baidu.com/s/1vqmnwOzyqKY_9hoIuEeTxQ )  提取码：sesa 
--  [计算复杂性：现代方法](https://pan.baidu.com/s/1EzKC2e07LC254fS6iQsgTA )  提取码：yt7s  
--  [概率论与数理统计 - 陈希孺](https://pan.baidu.com/s/1KRRqILV_afKIG6CQx4WDeQ  )  提取码：mqcs
--  [程序员的数学卷3-线性代数](https://pan.baidu.com/s/18C4ingEpE4KNF7ebF5lBjg )  提取码：nq28 
--  [程序员的数学卷2-概率统计](https://pan.baidu.com/s/1q4Uw5_h0OKk694NuWcb6-Q  )  提取码：12bs
--  [程序员的数学卷1一 清晰版](https://pan.baidu.com/s/1Tzd6eVEnf2GCgkSg_zTqDQ )  提取码：amqa 
--  [Operations Research Applications And Algorithms](https://pan.baidu.com/s/1nofFSw9D8u4PPfeYoVJd7g )  提取码：pthp 
--  [Discrete Mathematics and Its Applications](https://pan.baidu.com/s/1JeUR9gGMAd6WvIvyOo3kBQ )  提取码：yjum
--  [Computational Complexity_ A Modern Approach](https://pan.baidu.com/s/1y-ldbfKrUbw7gf1sV899_w  )  提取码：5wo8 
+- [C++标准库(第2版)](https://pan.baidu.com/s/1CjfaCzrDdlYcE_cbzV69oA)    提取码: d82b
 
-持续更新中。。。。
+- [STL源码剖析简体中文完整版(清晰扫描带目录)](https://pan.baidu.com/s/1RexGncbA5nsCB6K1tpzivQ)    提取码: g7vl
+
+- [VC++数字图像模式识别技术及工程实践](https://pan.baidu.com/s/1GZfYKrizFIFNH5EQisRqAg)    提取码: com5
+
+- [C++并发编程实战（中文）](https://pan.baidu.com/s/1EbAD3XmxU05OVTF3IRbXCg)    提取码: 1o21
+
+## 3、Python
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/03.md)
+
+- [Python灰帽子](https://pan.baidu.com/s/180oxkw8cOqcpJJrdMPIAww)    提取码: un0d
+
+- [Python高级编程.（法）莱德.扫描版](https://pan.baidu.com/s/1mpFIko_-P8rrHXtCvR5uew)    提取码: 4rpr
+
+- [Python编程入门经典](https://pan.baidu.com/s/1MWEl4Fl9Tp1-FPJe76JPUw)    提取码: 63kj
+
+- [Python技术参考大全](https://pan.baidu.com/s/16-5t1QfdL4wQTDA_3N_cgQ)    提取码: ithk
+
+- [Python数据分析基础教程：NumPy学习指南（第2版）](https://pan.baidu.com/s/1cptD32l_O-mzDHanMstjyw)    提取码: 0agr
+
+- [Pythonweb开发学习实录](https://pan.baidu.com/s/1h4hSEMOd1dD2SrA7CZ__gA)    提取码: 84es
+
+- [Python基础教程(第2版).人民邮电出版社.扫描版](https://pan.baidu.com/s/1JpO56EgFvHSFP6qizIkHvg)    提取码: h6ko
+
+- [Python自然语言处理中文版](https://pan.baidu.com/s/1qVrZkEb8lftKhQckJvZrhA)    提取码: gs7n
+
+- [Python_Testing_Cookbook](https://pan.baidu.com/s/1PKD8ALjmFonKeE5VtV_7-g)    提取码: rrer
+
+- [PythonCookbook(第2版)中文版](https://pan.baidu.com/s/18fNWrN0CdZcCYg17nCTpWA)    提取码: jcfp
+
+- [Python网络编程基础第二版](https://pan.baidu.com/s/10ObzK7NvV82228MYuKDOBQ)    提取码: fbo8
+
+- [Python源码剖析](https://pan.baidu.com/s/131lbNviEheim1WSEGKEsfA)    提取码: twur
+
+- [Python学习手册_第3版](https://pan.baidu.com/s/1B9zuS9FOWHjHVO7RFNd2FQ)    提取码: t0vk
+
+- [用Python做科学计算(scipy)](https://pan.baidu.com/s/1-Bhwm2zvgCgkDr5WS1vOLw)    提取码: ia3q
+
+- [Python.Unix和Linux系统管理指南.（美）基弗特.扫描版](https://pan.baidu.com/s/1F14AEjI8iLNq19cm-6gy9w)    提取码: eaga
+
+- [Python技术手册(第2版).（美）马特利.扫描版](https://pan.baidu.com/s/1ET6XGetLSGPkc-vu97jsew)    提取码: h7wo
+
+- [Python3程序开发指南.第二版(带书签)](https://pan.baidu.com/s/1IWxdPe6j0uVKfaRpVlHOfg)    提取码: tw0m
+
+- [Python核心编程翻译版(第二版)](https://pan.baidu.com/s/1vjRJymRqdIetaIVb2_8RjQ)    提取码: fe5l
+
+- [Python参考手册(第4版)](https://pan.baidu.com/s/1xuQal-9obc4AUoifgKfKkQ)    提取码: 8qrb
+
+## 4、数据结构与算法
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/04.md)
+
+- [程序员面试金典](https://pan.baidu.com/s/1TUwCzavrHW-RiIgl_cu2EA)    提取码: 2j5o
+
+- [程序员代码面试指南,左程云著,P513](https://pan.baidu.com/s/1eC9Ga9NCiUaL2io7UFVjEw)    提取码: w7cr
+
+- [挑战程序设计竞赛(第1版)](https://pan.baidu.com/s/1iu2SXMf6TUjIDuvGrb9C7Q)    提取码: 1ss3
+
+- [挑战程序设计竞赛(第2版)高清完整版](https://pan.baidu.com/s/1aV0HPWfDMM_YU7MzQ3GGfQ)    提取码: 08pk
+
+- [《算法图解》](https://pan.baidu.com/s/1HHSU9V6MbqJdfQ_uh11H7A)    提取码: h5b4
+
+- [数据结构与算法分析：C语言描述_原书第2版_高清版](https://pan.baidu.com/s/11833mQq722P7Uv9bmW5kLw)    提取码: t0gm
+
+- [算法笔记](https://pan.baidu.com/s/1adu01Z7-rYJq2Ln9v9prvg)    提取码: 6o5d
+
+- [背包问题九讲2.0](https://pan.baidu.com/s/1zvdJQP1yda1uqw7mBuJMsQ)    提取码: pmqm
+
+- [《妙趣横生的算法（C语言实现第2版）》](https://pan.baidu.com/s/1jfg5OXup3m0hgrgDBI9KZQ)    提取码: 44ru
+
+- [剑指Offer](https://pan.baidu.com/s/1_Uj9ePpfvqPDQsd2gNi2YQ)    提取码: cwpr
+
+- [《趣学算法》](https://pan.baidu.com/s/1mYO0yAatvZpSAGPqUasVvg)    提取码: ujjh
+
+- [大话数据结构](https://pan.baidu.com/s/18qESwN2Ikw5aklIRWjfUSA)    提取码: 2clh
+
+- [算法导论第三版](https://pan.baidu.com/s/1wmDOCDOeLkYQK9vUnSzFyA)    提取码: mbf8
+
+- [啊哈！算法扫描版](https://pan.baidu.com/s/1yBywRzMJK1c0NlTPKQuwGw)    提取码: gpat
+
+- [数据结构与算法分析C++描述](https://pan.baidu.com/s/1KvXacuKAmF69dbhF7SjHhw)    提取码: r8wr
+
+- [剑指offer名企面试官精讲典型编程题](https://pan.baidu.com/s/1PlAWTV6XzRpPuSDGLxrszw)    提取码: h5cw
+
+- [背包九讲](https://pan.baidu.com/s/1s35qzHA3Mw0u8I3nXSGS6A)    提取码: iss0
+
+- [编程之美—微软技术面试心得](https://pan.baidu.com/s/13pLscBc74lVWtqVrp7tPYQ)    提取码: dkhq
+
+- [算法笔记](https://pan.baidu.com/s/11grR55M7L2rVdV5LfZdfWQ)    提取码: 46f2
+
+- [算法图解](https://pan.baidu.com/s/1BxQPuCcQctVvKdjGyuiUBQ)    提取码: fkok
+
+- [《算法导论》第三版](https://pan.baidu.com/s/1uAm2IlEOvggQyDSzd8LAtw)    提取码: ti8r
+
+## 5、操作系统
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/05.md)
+
+- [爱上单片机【第二版】7](https://pan.baidu.com/s/17pYqkWe0NY29yzjjdHTe-g)    提取码: d0ag
+
+- [操作系统原理及应用(Linux).王红等.扫描版](https://pan.baidu.com/s/1uaO0jw9rltqxdntah9D4kg)    提取码: q1ak
+
+- [操作系统原理与设计](https://pan.baidu.com/s/19cOE8Syrve-tDGYwmErGeQ)    提取码: 6bou
+
+- [编码——隐匿在计算机软硬件背后的语言上](https://pan.baidu.com/s/12FC7nhXiWSELZXcv6ZkroQ)    提取码: 5q6g
+
+- [深入理解Linux内核](https://pan.baidu.com/s/1anGV4KJCcUR6u3IhUIL7Og)    提取码: kqb4
+
+- [程序是怎样跑起来的](https://pan.baidu.com/s/1fZqyzzHY72g4THSAUgLO3Q)    提取码: 013m
+
+- [linux内核完全注释](https://pan.baidu.com/s/1lwqCJ7ticgsRyEhixq2WeA)    提取码: 4t9h
+
+- [深入理解计算机系统（原书第三版）](https://pan.baidu.com/s/1euBRnSCTwddKHprXjWSxYw)    提取码: 43mt
+
+- [操作系统教程(第3版)](https://pan.baidu.com/s/1ODRRMzhpupLLUlXjR-3mAA)    提取码: phgc
+
+- [深入理解计算机系统第3版](https://pan.baidu.com/s/1mMiio1p3-cLzQsLzgubXrw)    提取码: fp4u
+
+- [编译原理(龙书第2版)](https://pan.baidu.com/s/1PYZp4AFY3uckJ18E0DSWCw)    提取码: fmgf
+
+- [30天自制操作系统.(川合秀实).周自恒](https://pan.baidu.com/s/1ct24hp2WZXKkiU5Sa_lbKA)    提取码: fhf1
+
+- [并行计算导论](https://pan.baidu.com/s/1opvPFg1xgCjkv2zyx07pSw)    提取码: upw4
+
+- [编写可读代码的艺术](https://pan.baidu.com/s/16F-8aft9mrnrP_mEXEEPdA)    提取码: 55vg
+
+- [程序员的自我修养—链接、装载与库](https://pan.baidu.com/s/1Y2iGsqD0wjFjJkhHpT9h3Q)    提取码: iffv
+
+- [并行算法的设计与分析](https://pan.baidu.com/s/12DB9t58BoyCYFm-DFwUSIA)    提取码: gij6
+
+- [计算机是怎样跑起来的](https://pan.baidu.com/s/12pBXJyGgsnsY5UxK-Dfxqg)    提取码: t9kv
+
+## 6、计算机网络
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/06.md)
+
+- [网络是怎样连接的](https://pan.baidu.com/s/1qV0dvSHG7OSAMGVsKM0bxA)    提取码: 6uc5
+
+- [TCP+IP详解卷1：协议原书第2版](https://pan.baidu.com/s/1GAjII4g7inJ8uoiffdK16Q)    提取码: sag9
+
+- [TCP](https://pan.baidu.com/s/1DeBeM-DQdp9lix2tR13gLg)    提取码: bknt
+
+- [计算机网络](https://pan.baidu.com/s/1HPilo4puoP25XIl9LuxVhw)    提取码: nsgg
+
+- [图解HTTP](https://pan.baidu.com/s/1zDzZRs7T_GTSpTVvx3Fa2w)    提取码: 2f4u
+
+- [图解TCP_IP第5版](https://pan.baidu.com/s/1UXiKQFEwhH0qbfv5g4jaBw)    提取码: 5g49
+
+- [TCP](https://pan.baidu.com/s/16mxvkdq4co429ItsBqAwlQ)    提取码: 8p8r
+
+- [计算机网络(西工大)](https://pan.baidu.com/s/1-dny5AFeuXNFCSoY9wrAdA)    提取码: 5t62
+
+- [计算机网络第五版](https://pan.baidu.com/s/1PkJQk4joK3xXOCztePdZ1A)    提取码: udpv
+
+- [计算机网络5光盘谢稀仁](https://pan.baidu.com/s/1DvlM0Weum2418mBjsQL4wg)    提取码: 1ps2
+
+- [计算机网络：自顶向下方法课后习题参考答案](https://pan.baidu.com/s/1Xr43yoQk0hxkePDEvDVDxA)    提取码: 35wi
+
+- [计算机网络技术实用教程.李畅.文字版](https://pan.baidu.com/s/1TTannyNXieKNYFsi8cQbqw)    提取码: tp2w
+
+- [TCP_IP网络编程](https://pan.baidu.com/s/1wZtnjx24ZNLmrYFRTOIPew)    提取码: fc3m
+
+- [TCP+IP协议内核源码分析](https://pan.baidu.com/s/1F4IncCnbJhLmE00_0pqYAw)    提取码: 68pj
+
+- [Wireshark网络分析就这么简单](https://pan.baidu.com/s/1-HX0Pz2jCUoWpXHVtr1ekQ)    提取码: 3gkl
+
+- [TCP](https://pan.baidu.com/s/1LTxjClBCx5nUr-g7cjMkxA)    提取码: tfij
+
+- [TCPIP高效编程](https://pan.baidu.com/s/1xbNOqYl7RmnNkdxfjP9PCQ)    提取码: ncte
+
+- [HTTP权威指南（中文版）](https://pan.baidu.com/s/1jSCaoq2pfCT0nPO4P-m67A)    提取码: p5tq
+
+- [Wireshark网络分析的艺术](https://pan.baidu.com/s/1dKGB8i5ElYOw8e1B_J0E1A)    提取码: cgpk
+
+- [TCP](https://pan.baidu.com/s/1KhNY4IPh3caqolWDU3M1ag)    提取码: p2fs
+
+## 7、Linux&Unix
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/07.md)
+
+- [Linux高性能服务器编程]( https://pan.baidu.com/s/1oAzpmmz9hJc02AFIKs-XAw )    提取码: 8m9a
+
+- [Unix]( https://pan.baidu.com/s/1Ax2JmpyQc7EeE02pGlMtoA )    提取码: 39vl
+
+- [鸟哥Linux私房菜：基础版]( https://pan.baidu.com/s/1QitnvEJCf7eB6SilbBP12w )    提取码: ol9h
+
+- [鸟哥的Linux私房菜]( https://pan.baidu.com/s/1PfuZsUqs6dmIre5Gf1qHng )    提取码: r7l7
+
+- [linux内核设计的艺术]( https://pan.baidu.com/s/1sRK9HF3ncLYkZ-Jd2TU23w )    提取码: pt2d
+
+- [UNIX网络编程卷1：套接字联网API（第3版）]( https://pan.baidu.com/s/1U2FyAHtQvS6Lqkp65LOfJg )    提取码: 55j9
+
+- [Linux内核完全注释修正版V3.0带目录]( https://pan.baidu.com/s/14LDdjTbniyvlNlGIOyduYA )    提取码: n6ch
+
+- [UNIX系统编程手册下(德)MichaelKerrisk]( https://pan.baidu.com/s/1k6xhCFPq1t_njiXEHc_Law )    提取码: 82n8huhun
+
+- [UNIX网络编程卷2：进程间通信]( https://pan.baidu.com/s/1Nsh7YVTc0OD0bZmnxmTzdw )    提取码: ltit
+
+- [《TCPIP网络编程》(韩)尹圣雨]( https://pan.baidu.com/s/1YuzMbwsqoa8RFSPGBjYrTQ )    提取码: 05mv
+
+- [UNIX环境高级编程_第3版]( https://pan.baidu.com/s/1CpK9erirqV0MU8W3_EDKIw )    提取码: 4nmd
+
+- [UNIX平台下C语言高级编程指南]( https://pan.baidu.com/s/1Cqy--ncAnCsfbJ_qVtX1tQ )    提取码: qd9w
+
+- [UNIX环境高级编程中文版]( https://pan.baidu.com/s/1xvfXSNorFfibuP1rgyQn5A )    提取码: 6ouo
+
+- [陈硕]( https://pan.baidu.com/s/1eHutK-Rbv7j4heAGYNvneg )    提取码: if61
+
+- [Linux内核设计与实现中文原书第3版]( https://pan.baidu.com/s/150-bi9_NEcq8OyLxJj79Mg )    提取码: j4jo
+
+- [UNIX编程艺术(中文版)]( https://pan.baidu.com/s/12aJORh33wSRXPxFQO814Uw )    提取码: im1p
+
+- [linux权威指南(第三版)]( https://pan.baidu.com/s/1MJ20xtG3hgshyc68ZK-0OA )    提取码: 6ko4
+
+- [《Linux多线程服务端编程：使用muduoC++网络库》.(陈硕)]( https://pan.baidu.com/s/1lxrA1xKaiEOh3GTa5f-iGA )    提取码: n6tu
+
+- [快乐的Linux命令行]( https://pan.baidu.com/s/1WlQkfApDnBaMq-WJy3Igkg )    提取码: 8vbi
+
+## 8、数据库
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/08.md)
+
+- [SQL学习指南]( https://pan.baidu.com/s/1qDhSN5alZd436EB-L6D3qA )    提取码: 7qkj
+
+- [MySQL核心技术手册(第二版)]( https://pan.baidu.com/s/1n_8tnNuQr2ern1bDe9QoUA )    提取码: nww9
+
+- [SQL基础教程]( https://pan.baidu.com/s/12BwBs1D0own7Ey3WQzXU3w )    提取码: 2k95
+
+- [深入学习MongoDB]( https://pan.baidu.com/s/14ZrPnbGd_vWF8B_Ku6MOUg )    提取码: 8p7a
+
+- [SQL宝典]( https://pan.baidu.com/s/1agNGPAcuoxipA8sVdb3mQA )    提取码: wb7f
+
+- [MySQL完全手册]( https://pan.baidu.com/s/1A0jtKGvJvQQpoHwxqFB-_A )    提取码: kdt5
+
+- [数据库系统概念]( https://pan.baidu.com/s/1fho83Fgr9jaG4RVfoQB-4A )    提取码: 07l4
+
+- [数据挖掘与知识发现]( https://pan.baidu.com/s/1x55e5jSlLkU5fCcV6iZbTw )    提取码: 7g5a
+
+- [SQL入门经典（第四版）]( https://pan.baidu.com/s/1KYwMX8e7BO4W2eHAoQ92lA )    提取码: rn6c
+
+- [MySQL性能调优与架构设计]( https://pan.baidu.com/s/1QJe7Tce18euEhzprY3ypfQ )    提取码: d11p
+
+- [MySQL必知必会]( https://pan.baidu.com/s/1YCy34fXgM2RDEI2PMQMMjQ )    提取码: trdp
+
+- [数据库基础知识]( https://pan.baidu.com/s/1qT0DTBQgaBH7CuWpYHnWFA )    提取码: lujj
+
+- [Redis设计与实现]( https://pan.baidu.com/s/1hcxt5d9j46P3r5kSsTYj2A )    提取码: t2cn
+
+- [MySQL技术内幕：InnoDB存储引擎]( https://pan.baidu.com/s/1PSpo85b6h-dw7TbYAzpnvA )    提取码: eu8f
+
+- [高性能MySQL（第3版）.Baron.Scbwartz等]( https://pan.baidu.com/s/14vbLhtPOYHgWAOwrNl0Wiw )    提取码: h4su
+
+## 9、组成原理&底层
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/09.md)
+
+- [计算机与人脑]( https://pan.baidu.com/s/1VMC86ECfOOSnCo_fSkNyaA )    提取码: k09c
+
+- [x86汇编语言从实模式到保护模式完整版]( https://pan.baidu.com/s/1z_F11o1vaLbLJQNNp6AlwA )    提取码: c3km
+
+- [计算机组成与设计：硬件、软件接口（第三版中文）]( https://pan.baidu.com/s/1s9X1-WyUfP7-WgpOfb1Htw )    提取码: jwod
+
+- [计算机组成与设计硬件软件接口原书第5版]( https://pan.baidu.com/s/1tM68cqO4zyDTzsiPrVYerg )    提取码: 2l6w
+
+- [计算机系统要素：从零开始构建现代计算机]( https://pan.baidu.com/s/1kKh7lsUIXCFN_KoMCTV_pg )    提取码: 4sgs
+
+- [编译原理]( https://pan.baidu.com/s/1RUHPEeqIT69cW25po6uWQQ )    提取码: onl8
+
+- [计算机组织与结构]( https://pan.baidu.com/s/1DusLJXVTHKEAwhJxC5bivg )    提取码: m91s
+
+- [计算机组成原理(第2版)]( https://pan.baidu.com/s/15N2XCF2iuXzeMKPbo2rYFA )    提取码: vs36
+
+- [计算机原理]( https://pan.baidu.com/s/1vJARZUQNIsxJ4zuFaUqLLg )    提取码: 9hkl
+
+- [计算机组成原理(白中英)]( https://pan.baidu.com/s/1bNNnr1Gsa1CHTJDJlaHPog )    提取码: 92qp
+
+- [老码识途:从机器码到框架的系统观逆向修炼之路]( https://pan.baidu.com/s/1HgGul_TrJzEgvhtVf4EknQ )    提取码: fdgb
+
+## 10、嵌入式&硬件
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/10.md)
+
+- [嵌入式系统开发圣经]( https://pan.baidu.com/s/1O78O6GpL6x7ZV-UqNk9zdA )    提取码: 2hb5
+
+- [AVR单片机原理及应用]( https://pan.baidu.com/s/1Y-Mmaz9YA8FkdNenST9Hew )    提取码: e4m3
+
+- [华为_硬件工程师手册]( https://pan.baidu.com/s/1MDAYq4IA9zXw8LnSIoh5LQ )    提取码: doko
+
+- [嵌入式系统]( https://pan.baidu.com/s/1lBOEm9Lplmrwtb295xmJ-Q )    提取码: 693s
+
+- [嵌入式清华大学Arm培训教材]( https://pan.baidu.com/s/1QiYaEakn7T_cmkVuISeQjA )    提取码: 74ra
+
+- [嵌入式Linux应用开发完全手册.有目录]( https://pan.baidu.com/s/1kD3iD4RevMHmMTL34BibZQ )    提取码: m87s
+
+- [嵌入式Linux应用程序开发详解]( https://pan.baidu.com/s/1uX5m44nftu0IudW50ZaqMw )    提取码: olaj
+
+- [深度探索嵌入式操作系统]( https://pan.baidu.com/s/15wqe1E-FwBQf3RsciVfhew )    提取码: 1u6n
+
+- [工业机器人编程语言的设计与实现]( https://pan.baidu.com/s/1MA2i7T4Dhr3shPQMHpUg2w )    提取码: al4r
+
+- [硬件工程师入门教程]( https://pan.baidu.com/s/1d8zkCSwwjYniCNKAdqSHhw )    提取码: c96c
+
+- [数字电路基础（第五版）习题答案]( https://pan.baidu.com/s/1FYxnXkzZS8xXVoU6wrQCPw )    提取码: g605
+
+- [嵌入式Linux系统开发技术详解]( https://pan.baidu.com/s/1r0BADpSbk7JTzOqi4H90fg )    提取码: 3utt
+
+- [嵌入式C编程与Atmel.AVR.avrebook6]( https://pan.baidu.com/s/1F4XlngeipSHJPkzifZXmuw )    提取码: gnpc
+
+## 11、软件工程
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/11.md)
+
+- [代码大全]( https://pan.baidu.com/s/1IB2MRIjloun1_wdh0_0WMA )    提取码: d9l9
+
+- [重构改善既有代码的设计.中文版]( https://pan.baidu.com/s/1PkGYosJKnkRLPKEQMjEBRg )    提取码: u8f3
+
+- [架构之美]( https://pan.baidu.com/s/17w2-ppOF2HXcy4o4xrnfvw )    提取码: qdni
+
+- [精通黑客编程]( https://pan.baidu.com/s/12zrdiMWb3mwpnR-xn02wgg )    提取码: dg6t
+
+- [软件测试]( https://pan.baidu.com/s/1AMql_pKPHYTFCIr90bUdcg )    提取码: b319
+
+- [加密与解密实战入门]( https://pan.baidu.com/s/1EIHCckhPy7iQwhs-7yL5Eg )    提取码: 7qdu
+
+- [黑客就这么几招第二版]( https://pan.baidu.com/s/1cgyfA6UXmOyepqEG03glyQ )    提取码: flk5
+
+- [电脑黑客攻防全彩版]( https://pan.baidu.com/s/1bT551Xl0pui99Udj4yKbjQ )    提取码: oqto
+
+- [软件工程思想林锐]( https://pan.baidu.com/s/1y6l2IswAGKO6Dv9tMI2JUw )    提取码: fw4g
+
+- [微软的秘密]( https://pan.baidu.com/s/1KUewPUXOyYyWM5NmbAgxaQ )    提取码: 50k3
+
+- [软件测试的艺术]( https://pan.baidu.com/s/10DZu8PoB1X4P5OdDyBsFsw )    提取码: pmpn
+
+## 12、设计模式
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/12.md)
+
+- [大话设计模式(带目录完整版)]( https://pan.baidu.com/s/1rQP0XHypzw0JC4kiYgTi_g )    提取码: h148
+
+- [设计模式解析](https://pan.baidu.com/s/1tToHLKRXLSkheDqUylfy9g)    提取码: qr5f
+
+- [23种设计模式(C++)](https://pan.baidu.com/s/1bfBrurnAsiIEVRtHTVo3_g)    提取码: 572f
+
+- [设计模式：可复用面向对象软件的基础](https://pan.baidu.com/s/15FEObcRfx4Emt70OZW2KdA)    提取码: olbp
+
+- [大话设计模式(中文PDF+源代码)]( https://pan.baidu.com/s/1k_e13vxsf2CHV7hbfNoHVA )    提取码: is34
+
+- [设计模式之禅](https://pan.baidu.com/s/1AMJGHkDkw8wuX4eQQiUTZQ)    提取码: uim6
+
+- [设计模式沉思录](https://pan.baidu.com/s/1pjxB-2J9Gc3_4RAxK3RjDA)    提取码: jk7q
+
+- [设计模式](https://pan.baidu.com/s/1_l7DIBzdlWQfjuDKDohlZA)    提取码: c4ws
+
+- [大话设计模式](https://pan.baidu.com/s/1pIzhx3qnzxMTYkKqvll_ig)    提取码: fvos
+
+## 13、视觉智能
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/13.md)
+
+- [模糊技术与神经网络技术选编]( https://pan.baidu.com/s/1pfJdFVhpJcnaj38K_FzeHg )    提取码: 68pi
+
+- [数字图像处理第三版]( https://pan.baidu.com/s/1lvnGqZD-OsGqIpnPD2HA1w )    提取码: dk88
+
+- [图灵的秘密：他的生平、思想及论文解读]( https://pan.baidu.com/s/1Yh-m1s8PZi5ah8D9dGFVBg )    提取码: be51
+
+- [同济线性代数第五版]( https://pan.baidu.com/s/1mKf6CcCgyDY_0OO8X0IgDQ )    提取码: 4snf
+
+- [高级人工智能]( https://pan.baidu.com/s/1XlJ08sa3j9wnVmEq02wviw )    提取码: l96a
+
+- [深度学习_中文版]( https://pan.baidu.com/s/1H86uAL5CH5NOcIL_ffEU4g )    提取码: rdrj
+
+- [内部培训资料]( https://pan.baidu.com/s/1Q390Rg5Y0rGS4vpau3TALQ )    提取码: tcit
+
+- [数字图像处理与机器视觉：Visual.C.与Matlab实现.张铮]( https://pan.baidu.com/s/1vgw4VFc_hjIwvmSm3B1oqQ )    提取码: k2d8
+
+- [图灵程序设计丛书：程序员的数学]( https://pan.baidu.com/s/1btJzXzSb0mYAxIcA4Bii2w )    提取码: pv0d
+
+- [面向机器智能的TensorFlow实践(智能系统与技术丛书]( https://pan.baidu.com/s/1LqMVeC-qaueQUojizoLGjQ )    提取码: jb1j
+
+- [图像处理、分析与机器视觉（第三版）]( https://pan.baidu.com/s/163SE9GiPlAK5oo45AHGGQg )    提取码: dmtg
+
+- [机器学习与数据挖掘方法和应用]( https://pan.baidu.com/s/1hceD8rB1bFY7KNQmlTfntQ )    提取码: 65h8
+
+- [深度学习(最全的中文版)_新书]( https://pan.baidu.com/s/1_3NXSTLwJx4mRa8oXCMQcA )    提取码: f4dw
+
+- [机器学习那些事]( https://pan.baidu.com/s/1kDPLzBU1IMNw5I3k8IN4hg )    提取码: 1n4t
+
+- [人工智能概论]( https://pan.baidu.com/s/1ZfQYXmU0nxrZ47xx4tuuwg )    提取码: pdgd
+
+- [机器学习实战源代码]( https://pan.baidu.com/s/1KWfEpH6hKi9pkOMrn8lk9g )    提取码: e2md
+
+- [凸优化\_王书宁\_中文\_笔记_答案]( https://pan.baidu.com/s/1teg8TqQBp47oEtscZHwdeA )    提取码: v3cq
+
+- [机器学习与数据挖掘周志华]( https://pan.baidu.com/s/1H9mcJITZsEOCm852lj76fw )    提取码: 53i9
+
+- [TensorFlow技术解析与实战.李嘉璇]( https://pan.baidu.com/s/1zH85eqx8LZ96f9VdFHjK_g )    提取码: hmtc
+
+- [智能控制系统及其应用]( https://pan.baidu.com/s/1zp3bIFgoVpCSuPLxNTyUlw )    提取码: g4ws
+
+- [统计学习方法]( https://pan.baidu.com/s/1iV541U-hyqHJys3OYnexRA )    提取码: thnt
+
+- [神经网络从入门到精通]( https://pan.baidu.com/s/15AW6MxhOicd-Ksa6y1W8-g )    提取码: 23td
+
+- [人工神经网络与模糊信号处理]( https://pan.baidu.com/s/1k400dAOATzJwwEl6u62qzw )    提取码: kups
+
+- [神经网络实用教程]( https://pan.baidu.com/s/19ZXWzIr6NV_CEcSyIPq1aQ )    提取码: jr7e
+
+- [机器视觉算法与应用]( https://pan.baidu.com/s/1kL8Pe4ACKjE0M2oB1lVWJA )    提取码: 796p
+
+- [模式识别]( https://pan.baidu.com/s/1H5uxNiVN25v7x2Z1skCmEA )    提取码: uid4
+
+- [人工智能及其应用（蔡自兴）]( https://pan.baidu.com/s/14T9cuu0As6XyhPoisQKsxQ )    提取码: hrfi
+
+- [图灵程序设计丛书：具体数学]( https://pan.baidu.com/s/1ymrw3eh2faSMkoRx4ZReew )    提取码: t42f
+
+- [计算机视觉]( https://pan.baidu.com/s/1FgmJH1R1u6hGndESSXo3XA )    提取码: pku1
+
+- [机器学习算法原理与编程实践]( https://pan.baidu.com/s/1DTkBpJ4d46oO3uMPfgLbkQ )    提取码: ignc
+
+- [基于半监督深度信念网络的图像分类算法研究]( https://pan.baidu.com/s/1wOMZ-RpLNYYjX2_hsxzW9A )    提取码: tveu
+
+- [人工智能(AI)程序设计(面向对象语言)]( https://pan.baidu.com/s/1arUt4fURk2wzHL7PqNhNcw )    提取码: vfm4
+
+- [计算机视觉一种现代方法]( https://pan.baidu.com/s/1Ka80RyBzlxERK9sc1TrgFg )    提取码: s175
+
+- [机器学习：实用案例解析中文版]( https://pan.baidu.com/s/18NYVP4C_6L59wNmyXr53bw )    提取码: 6r6q
+
+- [神经网络与模糊控制]( https://pan.baidu.com/s/1PRclDIwsf6t-1h6QCV8Ucg )    提取码: q3kv
+
+## 14、并行&并发
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/14.md)
+
+- [深入理解并行编程V1.0]( https://pan.baidu.com/s/1BM99r74jyyXns-Lj5wGVAA )    提取码: vcs7
+
+- [高性能CUDA应用设计与开发方法与最佳实践]( https://pan.baidu.com/s/1YI9ieKGviCZG-vwGv8yLSA )    提取码: 3t4h
+
+- [CUDAProgrammingADeveloper'sGuidetoParallelComputingwithGPUs]( https://pan.baidu.com/s/1eGBPWa3MLuAfn-MJNJpFxw )    提取码: s3en
+
+- [CUDA并行程序设计GPU编程指南]( https://pan.baidu.com/s/1xe-wkfjiEGMlqaPlzmDIyw )    提取码: kllj
+
+- [深入理解并行编程(美)PaulE.Mckenney2017.7]( https://pan.baidu.com/s/1XTdcdx-eKkAJNpAYa81ctw )    提取码: l2f9
+
+## 15、数学扩展
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/15.md)
+
+- [纳什均衡与博弈论]( https://pan.baidu.com/s/1N_rNXy59eHCQKRB5Ws5Weg )    提取码: jrvc
+
+- [迷茫的旅行商]( https://pan.baidu.com/s/1HHzeNx8pDINT413v5F--Lw )    提取码: kh1q
+
+- [计算方法]( https://pan.baidu.com/s/1ycdGktix1Q51Wmzj1GDaOQ )    提取码: e4w7
+
+- [博弈论对策]( https://pan.baidu.com/s/1UW6XxM3kmqXF6Oh5AvKzbw )    提取码: gnvj
+
+- [线性回归分析基础]( https://pan.baidu.com/s/1ShmwyYQK7WbznKxPPO40_w )    提取码: 3son
+
+- [知识科学与计算科学]( https://pan.baidu.com/s/1CSjgWey5-0a1HAFHLDjnDA )    提取码: 8ncm
+
+- [计算方法]( https://pan.baidu.com/s/10Hq-iekgF0IvQZWgQVpj7A )    提取码: cae3
+
+- [皇帝新脑—有关电脑、人脑及物理定律]( https://pan.baidu.com/s/14CsYAwsae2ikd89HBjJMhw )    提取码: 17e4
+
+- [最优化基础]( https://pan.baidu.com/s/1pgXoC_CFtQjASEK-QCXHAg )    提取码: 20wp
+
+- [现代数学手册·计算机数学卷]( https://pan.baidu.com/s/1D6PstZiYxugj5t6P3lUZog )    提取码: 3cfi
+
+- [博弈论施锡权]( https://pan.baidu.com/s/1Hh3M53DOIqM_w890xTJmog )    提取码: 5p7j
+
+- [走向数学丛书11]( https://pan.baidu.com/s/17atZqb4wbJWVD5MejOSzHQ )    提取码: nf6e
+
+- [组合优化导论]( https://pan.baidu.com/s/11I7gs64GBHJAd6sNPU7u6Q )    提取码: 5fik
+
+- [组合数学]( https://pan.baidu.com/s/13HR4DXZf0r9h-HbNeDCFcg )    提取码: 5g2u
+
+- [高等微积分.卢米斯]( https://pan.baidu.com/s/14WYQt6JznIocouq0XI9z1A )    提取码: 6nte
+
+- [七周七语言：理解多种编程范型]( https://pan.baidu.com/s/1E8L9GS91RE9UP1KXjkZkrA )    提取码: lu4a
+
+- [小波十讲(数学)(TenLecturesOnWavelets)]( https://pan.baidu.com/s/1JsqpT2rgzfhMuJZAprCRyg )    提取码: j4k1
+
+- [数学：它的内容、方法和意义（全三卷）俄A.D.亚历山大洛夫]( https://pan.baidu.com/s/1Z0a0r7gMQY4-wquTNjm4EQ )    提取码: j6cd
+
+- [科研文献分类聚类数据]( https://pan.baidu.com/s/1kq1jxDmZT-Ej64fXulfkUg )    提取码: cthv
+
+- [哈佛给学生在做的382个思维游戏]( https://pan.baidu.com/s/1uGUDvdtR6bHw_TIRu4QPNg )    提取码: 20bp
+
+- [逻辑的引擎第一推动丛书【第四辑】]( https://pan.baidu.com/s/15fmJYKAzwgTPDxSQKCV-cg )    提取码: 29ee
+
+- [走向数学丛书13数学与电脑(杨重骏,杨照崑)]( https://pan.baidu.com/s/1-lsfXUkFryaVzrKX3o_Tew )    提取码: 7wvb
+
+- [计算方法]( https://pan.baidu.com/s/1rTO0rWQRpplSOKBj7is2eA )    提取码: nb3b
+
+- [策略思维]( https://pan.baidu.com/s/1SMEnpMfL44dJSdAxulijAg )    提取码: kbwc
+
+- [概率论及其应用(第2卷).(美国)William.Feller.扫描版]( https://pan.baidu.com/s/1hUBH8hwRm7fzIpjOOb2lcA )    提取码: 9aan
+
+- [非线性回归分析及其应用]( https://pan.baidu.com/s/1qwhXW1AU-viVVqST9iwk0g )    提取码: juus
+
+- [计算机视觉中的多视图几何]( https://pan.baidu.com/s/1OrSFgsTo7AJqoMK7PD4B8g )    提取码: vaco
+
+- [数学：确定性的丧失]( https://pan.baidu.com/s/1_cPbGXESJ0X9fl1UT0XsCw )    提取码: vert
+
+- [概率论及其应用第三版]( https://pan.baidu.com/s/1-KENLKu2NzBr3Gz19gEMAA )    提取码: 9rs8
+
+- [活学活用博弈论]( https://pan.baidu.com/s/1f34lpJaCO0SvTHJW23xZYA )    提取码: b0fc
+
+- [量化研究与统计分析]( https://pan.baidu.com/s/1ykxngjQvzeTVKn0RUsVyJA )    提取码: 9h22
+
+- [泛函分析.(美国)Walter.Rudin.扫描版]( https://pan.baidu.com/s/1NJlQ5XNCBkpWXLqD5VAXOg )    提取码: 7a4u
+
+- [控制论(或关于在动物和机器中控制和通信的科学).美N.维纳]( https://pan.baidu.com/s/1R-Sv7MhHP0BXJNe-WTpqHw )    提取码: 5759
+
+- [信息子论：关于宇宙本体的新探索及海龙著]( https://pan.baidu.com/s/1lU2p-4P6B-TuLp35HKBXgQ )    提取码: ovb7
+
+## 16、校招社招面试
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/16.md)
+
+- [STL面试总结](https://pan.baidu.com/s/1cAJNWXvyb7LcqsXqMPgUjQ)    提取码: aomn
+
+- [操作系统](https://pan.baidu.com/s/13j0OkCRN7qzNiTjl142BYw)    提取码: 2jrs
+
+- [shell面试](https://pan.baidu.com/s/1bXoG9EVOW1Frd2IlLhc5zA)    提取码: n1kg
+
+- [排序算法](https://pan.baidu.com/s/1idpppCH_TIi2E6h7TQ2kaQ)    提取码: 7i6p
+
+- [C++面试题目2](https://pan.baidu.com/s/14E-FeFQhX4NqW5ffs4ef7g)    提取码: ndqj
+
+- [C++11新特性](https://pan.baidu.com/s/1Ap8ngoU22N1bekaI7RbzNw)    提取码: i9qc
+
+- [C／C++程序员面试宝典](https://pan.baidu.com/s/1rp3KP-hSE6NtNiDSgNaTlQ)    提取码: 6t3l
+
+- [C/C++程序编译流程](https://pan.baidu.com/s/1R7GMhSXg0keJSjQ3HB21Hw)    提取码: 1ovw
+
+- [hash表实现](https://pan.baidu.com/s/11mpF_LCUSutP1oXA4u11BA)    提取码: vs59
+
+- [MYSQL数据库](https://pan.baidu.com/s/1RGQk5bYgv5yCXZkbe2Rx9w)    提取码: 44hp
+
+- [计算机网络面试](https://pan.baidu.com/s/1qabW7J4zS_IbMBn9jd01Mg)    提取码: nfff
+
+- [SVM面试](https://pan.baidu.com/s/1y7a_AvPG6yiKKvYTJyaWGQ)    提取码: 7qdq
+
+- [C++面试](https://pan.baidu.com/s/1i8b06_GWhL5DHvv2pU3UEQ)    提取码: 6ql1
+
+- [数据库2](https://pan.baidu.com/s/1Wv_yR-EhetbUK3BUHSQ4GQ)    提取码: t3qc
+
+- [Linux面试题目](https://pan.baidu.com/s/1plMwH1XKvIFHux_v60opAA)    提取码: l05u
+
+- [数据库1](https://pan.baidu.com/s/1s8QZuCFG_tcmGk5kJCqKdQ)    提取码: vinc
+
+## 17、其他
+
+[⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/17.md)
+
+- [随机与排队论](https://pan.baidu.com/s/1rYutQQklpJ66DIMVaIKd4Q)    提取码: 0cg8
+
+- [什么是数学中文版](https://pan.baidu.com/s/1R5m63yVdYzI26z84uOI6KQ)    提取码: e2k3
+
+- [思维导图让做笔记也别样精彩](https://pan.baidu.com/s/1Sn-q_gcNRZ4diKgSB96Hlw)    提取码: 157n
+
+- [如何阅读一本书](https://pan.baidu.com/s/1ykgVV7L8YcqE8mhYTPePLg)    提取码: 1f9w
+
+- [程序员跳槽全攻略..中文版](https://pan.baidu.com/s/1NJcisNUT1yX58bv-VL0VPw)    提取码: 43aa
 
 
 
