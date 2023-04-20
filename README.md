@@ -1,6 +1,55 @@
-<h1 align="center">计算机经典电子书与学习资源分享 </h1>
 
-🔥🔥🔥良心推荐一个计算机学习网站，可能是我用过**最好的计算机学习网站**，可以**刷算法、C/C++、Java、硬件、前端**等，还有**大厂面经、面试真题**等。
+
+<h1 align="center">计算机经典电子书与学习资源分享（可一键下载全部资源） </h1>
+<p align="center">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/GrindGold/pdf">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/GrindGold/pdf">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/GrindGold/pdf">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/GrindGold/pdf">
+</p>
+
+pdf是一个收集计算机领域经典书籍的开源项目，供各位同学免费使用，永不收费！
+
+信息时代，网络上充斥着各种资源。给同学们带来选择的同时，也带来了很多干扰。
+
+作为一名互联网/IT从业人员，经常需要搜索一些书籍、资源，在这个过程中踩过很多坑、浪费过很多时间。
+
+为了方便大家，我特意把这些年收集的计算机类书籍共享给大家。
+
+涵盖范围包括但不限于：C/C++、Python、Go、Linux、JavaScript、Rust等等。
+
+可以说，你想要的，这里都有！
+
+**作者简介**：你好，我是飞宇，本硕均于国内某高校就读，校招时拿了不少的互联网中大厂offer，曾先后就职于百度、字节等公司，具有多年互联网、IT行业工作经验。
+
+**虽然是所谓的科班出生，但学校教育质量就不提了。。。懂得都懂，所以我学习计算机基本全靠自学，B站、github、网易云课堂、YouTube等就是我的学习课堂。**
+
+**如果你跟我一样也是觉得学校讲的不好，老师上课只会读PPT，那我强烈建议你开始自学模式！**
+
+- 就比如我学习操作系统会去参考清华学堂在线和哈工大李志军老师的操作系统；
+- 学习数据结构除了听学校老师的课，我也会去浙大陈越和何应钦老师讲的数据结构；
+- 学习计算机网络则会参考哈工大的计算机网络课程和B站韩立刚老师的在校课程
+- ....
+
+多年以来坚持在微信公众号、知乎等平台进行免费分享，收获到不少读者的喜爱。
+
+希望我的分享能够惠及到更多同学，如果你对升学、职场、工作等内容感兴趣，可以和我进行交流！
+
+最后，欢迎大家关注我的**公众号：C语言与CPP编程**，一个Llinux C/C++开发人员进阶提升的优秀平台！
+
+<p align="center">
+    <img src="http://oss.interviewguide.cn/img/202304210025124.jpg" width="260" height="260"></img>
+</p>
+
+**问题反馈**：如果书籍无法下载，或者链接失效，请添加下方我的个人微信咨询，请备注**git**！
+
+<p align="center">
+    <img src="http://oss.interviewguide.cn/img/202304210114791.png" width="250" height="300"></img>
+</p>
+
+---
+
+🔥🔥🔥首先良心推荐一个计算机学习网站，可能是我用过**最好的计算机学习网站**，可以**刷算法、C/C++、Java、硬件、前端**等，还有**大厂面经、面试真题**等。
 
 ![](https://oss.interviewguide.cn/img/202301170032603.png)
 
