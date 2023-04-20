@@ -33,9 +33,10 @@
 <div align=center>
     <p>如果心情好，不介意赞赏一下，祝君 bug 退散</p>
 <figure class="half" align="center">
-    <img src="./image/zhifubao.png" style="right;height:150px;width:150px" />
-                                                                                                                        <img src="./image/wechat.png"  style="right;height:150px;width:150px" />
+    <img src="./image/zhifubao.png" style="right;zoom: 30%;"  />
+                                                                                                                        <img src="./image/wechat.png"  style="right;zoom: 27%;"  />
                                                                                                                          </figure></div>
+
 
 
 
