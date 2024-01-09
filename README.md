@@ -7,6 +7,7 @@
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/GrindGold/pdf">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/GrindGold/pdf">
 </p>
+
 **强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
 pdf是一个收集计算机领域经典书籍的开源项目，供各位同学免费使用，永不收费！
@@ -42,11 +43,13 @@ pdf是一个收集计算机领域经典书籍的开源项目，供各位同学�
     <img src="http://oss.interviewguide.cn/img/202304210025124.jpg" width="260" height="260"></img>
 </p>
 
+
 **问题反馈**：如果书籍无法下载，或者链接失效，请添加下方我的个人微信咨询，请备注**git**！
 
 <p align="center">
     <img src="http://oss.interviewguide.cn/img/202304210114791.png" width="250" height="300"></img>
 </p>
+
 
 ---
 
@@ -113,6 +116,7 @@ pdf是一个收集计算机领域经典书籍的开源项目，供各位同学�
     <img src="./image/zhifubao.png" style="right;zoom: 30%;"  />
                                                                                                                         <img src="./image/wechat.png"  style="right;zoom: 27%;"  />
                                                                                                                          </figure></div>
+
 
 
 
