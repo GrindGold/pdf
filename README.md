@@ -64,10 +64,6 @@ pdf是一个收集计算机领域经典书籍的开源项目，供各位同学�
 
 
 
-
-
-
-
 ## 3、知名大学计算机系开源课程收录（只有链接，无离线资源）
 
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
@@ -115,6 +111,21 @@ pdf是一个收集计算机领域经典书籍的开源项目，供各位同学�
 ## 2、C++
 
 [⭐️**一键下载全部书籍（含更多绝版书籍）**](./docs/02.md)
+[第二套、侯捷老师全系列八部曲-手把手教你进阶系列](https://pan.baidu.com/s/1vHwvv4qNFvLcMJa_R3ea5A)    提取码: 1tt8 
+
+包括：
+
+- 00-侯捷系列-全部课件
+- 01、C++面向对象高级编程(上)
+- 02、C++面向对象高级编程(下)
+- 03-侯捷-C++设计模式
+- 04-侯捷-C++新标准C++11&14
+- 05-侯捷-C++内存管理机制_60_侯捷
+- 06-侯捷-C++ Startup揭密:C++程序的生前和死后
+- 07、算法原理与实践(选修)
+- 08、系统设计与实践(选修)
+
+[第三套、LinuxCC++网络编程实践-陈硕]( https://pan.baidu.com/s/14lNT1rMxAM3q-bMp-hwYjQ)  提取码: 8r7k 
 
 - [STL源码剖析PDF及源码](https://pan.baidu.com/s/1FP3C9BSHLFbzGdtJc5E0rw)     提取码: 9kd2
 - [C++设计新思维](https://pan.baidu.com/s/1GYSpQl0fp5xqK-Z68KOUNw)     提取码: 4r4b
