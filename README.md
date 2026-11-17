@@ -28,7 +28,9 @@ pdf是一个收集计算机领域经典书籍的开源项目，供各位同学�
 
 - [速来！浙江大学计算机本科课程已开源！附赠离线版资源！](https://mp.weixin.qq.com/s/PPq9KIJ4wtTEygFodKgxqw)
 
-- [大格局！清华大学计算机系课程攻略共享计划！附赠离线版资源！](https://mp.weixin.qq.com/s/iIGnHfawqWMd_X5NdLBl-Q)[速来！牛客网大佬的互联网面试总结经验PDF文件！](https://mp.weixin.qq.com/s/RhnMktKTUX2udnGhlKAqpg)
+- [大格局！清华大学计算机系课程攻略共享计划！附赠离线版资源！](https://mp.weixin.qq.com/s/iIGnHfawqWMd_X5NdLBl-Q)
+
+- [速来！牛客网大佬的互联网面试总结经验PDF文件！](https://mp.weixin.qq.com/s/RhnMktKTUX2udnGhlKAqpg)
 
 - [离线版C语言速查手册！免费分享！](https://mp.weixin.qq.com/s/BbJ2NCyxd79GE9cH5QAB0w)
 
